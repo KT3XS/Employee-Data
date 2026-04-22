@@ -1,0 +1,1001 @@
+EmployeeID,FirstName,LastName,Gender,Age,Department,JobTitle,HireDate,Salary,ExperienceYears,PerformanceRating,EducationLevel,WorkLocation,AttendanceRate,PromotionLast3Years,LeaveDaysTaken,ManagerID,EmploymentStatus,OvertimeHours,Bonus
+1,Theresa,Hodge,Male,24,Finance,Accountant,2019-04-18,64553.18,7,1,High School,Austin,91.92,1,2,,Active,151,11866.61
+2,Douglas,Obrien,Female,49,Human Resources,Recruiter,2012-11-20,117145.75,20,4,Master's,Chicago,80.51,0,25,,Active,1,16211.78
+3,Ann,Murillo,Male,46,Operations,Operations Coordinator,2012-12-11,79487.73,3,3,Master's,Boston,90.09,0,23,,Terminated,117,13597.91
+4,Antonio,Williams,Male,45,Marketing,Marketing Manager,2011-07-04,125037.52,7,1,Master's,Boston,96.38,1,12,,Active,71,22503.32
+5,Misty,Vance,Male,57,Sales,Business Development Rep,2022-04-06,107004.41,2,2,Master's,New York,88.35,1,14,664.0,Active,97,9279.6
+6,Ryan,Morales,Male,51,Human Resources,HR Manager,2015-01-14,63208.11,2,5,Master's,Chicago,96.91,1,20,,Active,127,6143.93
+7,Katrina,Wood,Male,29,Sales,Business Development Rep,2017-10-28,83934.06,18,2,Bachelor's,Los Angeles,99.93,0,15,,Terminated,23,5938.31
+8,Zachary,Villanueva,Male,43,Finance,Financial Analyst,2023-04-24,98202.58,14,5,Master's,Los Angeles,96.52,1,23,,Active,29,5079.25
+9,Craig,Rivera,Female,31,R&D,Research Analyst,2018-10-26,146907.69,8,2,Bachelor's,New York,87.69,0,20,897.0,Terminated,76,9690.27
+10,Annette,Soto,Male,53,Operations,Operations Manager,2014-01-20,136659.41,11,3,Bachelor's,Chicago,80.99,0,18,,Terminated,20,11770.58
+11,Andrew,Pena,Female,41,R&D,R&D Manager,2020-09-05,135967.63,16,4,Master's,Denver,99.11,0,24,,Terminated,186,25743.71
+12,Kirsten,Rogers,Male,36,R&D,Research Analyst,2014-02-12,77189.41,2,5,High School,Boston,88.85,0,0,,Active,18,10672.67
+13,Robin,Kelley,Male,28,Marketing,SEO Analyst,2015-07-05,99315.73,6,5,PhD,Boston,89.41,0,15,,On Leave,104,8585.8
+14,Jorge,Walters,Male,34,Customer Support,Customer Service Rep,2011-07-16,148258.17,20,1,PhD,Chicago,76.52,0,25,56.0,On Leave,27,23607.45
+15,Judy,Ford,Male,37,IT,System Administrator,2020-10-26,88744.38,2,5,PhD,Denver,77.45,0,17,,On Leave,3,13118.35
+16,Lisa,Parker,Female,57,Marketing,SEO Analyst,2011-12-17,40237.09,12,4,Bachelor's,Austin,81.63,1,14,169.0,On Leave,73,6744.16
+17,Heather,Woodard,Male,25,Marketing,Marketing Specialist,2019-05-25,46705.33,17,3,Bachelor's,San Francisco,76.43,0,16,,Terminated,135,6427.9
+18,Jessica,Carter,Female,59,Finance,Finance Manager,2021-11-10,143575.57,3,5,Master's,Austin,81.16,1,19,414.0,Terminated,20,19982.54
+19,Larry,Grant,Male,58,Operations,Operations Coordinator,2020-12-25,113885.92,4,3,High School,Austin,86.43,1,2,,Terminated,2,21564.61
+20,Jessica,Ali,Male,55,Sales,Sales Executive,2018-12-11,136719.73,2,3,Master's,San Francisco,82.12,1,17,903.0,Active,180,15822.26
+21,Gary,Costa,Female,54,Sales,Sales Executive,2016-05-08,57099.27,17,3,Master's,New York,90.12,1,6,761.0,Active,175,9001.23
+22,Debbie,Thomas,Male,29,Customer Support,Customer Service Rep,2021-11-25,124823.11,10,3,Bachelor's,New York,79.04,0,22,,On Leave,109,14513.85
+23,Kathleen,Miller,Female,44,IT,System Administrator,2016-01-10,80111.67,9,1,Bachelor's,Austin,97.47,0,7,,Active,170,6530.02
+24,Jeanette,Coleman,Male,32,IT,System Administrator,2018-10-05,126062.51,10,4,PhD,New York,95.06,1,25,,On Leave,63,22642.04
+25,Rebecca,White,Female,26,Marketing,Marketing Specialist,2017-05-06,78462.43,14,2,Master's,Los Angeles,80.57,1,12,,Terminated,84,11691.29
+26,Amy,Walters,Male,49,Operations,Operations Coordinator,2025-06-09,59642.46,8,3,PhD,Austin,75.96,1,11,,On Leave,186,8319.27
+27,Angela,Hall,Female,45,Human Resources,Recruiter,2020-01-29,141813.27,16,5,High School,Boston,92.17,0,23,,Terminated,171,27091.93
+28,Elizabeth,Phillips,Female,48,Operations,Logistics Officer,2019-11-02,95783.48,9,4,Bachelor's,Seattle,83.15,0,17,,On Leave,32,14806.33
+29,Amy,Smith,Female,54,Human Resources,HR Manager,2011-10-20,126433.47,13,5,Bachelor's,San Francisco,91.37,0,14,,On Leave,172,15140.18
+30,Cassandra,Richards,Female,26,Operations,Operations Coordinator,2011-06-15,114007.52,7,2,PhD,Austin,95.16,1,1,,Terminated,62,8220.29
+31,Michael,Banks,Male,36,Customer Support,Customer Service Rep,2019-08-21,112166.38,4,1,PhD,New York,97.32,1,3,,Terminated,199,20085.19
+32,Terri,Calderon,Female,57,Marketing,Marketing Specialist,2018-05-16,113433.55,14,5,Bachelor's,Denver,89.89,1,14,,On Leave,156,21836.63
+33,Andrea,Rice,Female,37,Sales,Sales Executive,2013-03-28,124239.51,8,5,Master's,Boston,87.11,1,14,,Terminated,19,10670.54
+34,Whitney,Black,Male,25,Finance,Accountant,2018-01-08,116334.48,12,2,PhD,Los Angeles,76.61,1,17,,Terminated,119,12929.4
+35,Gregory,Blevins,Male,53,Human Resources,Recruiter,2011-07-23,143701.58,0,3,Master's,Los Angeles,93.84,0,13,,On Leave,137,25581.35
+36,Darren,Flores,Male,59,Human Resources,HR Manager,2017-05-16,119659.95,12,4,High School,Los Angeles,97.99,1,17,,Active,6,23585.97
+37,Latasha,Martin,Male,38,R&D,Research Analyst,2020-08-27,76008.79,12,4,PhD,New York,83.17,1,12,,Terminated,71,12479.46
+38,Susan,Miller,Male,37,Human Resources,HR Manager,2025-10-12,125935.64,2,1,PhD,San Francisco,93.86,0,6,,Terminated,5,24235.28
+39,Robert,Smith,Male,28,Marketing,SEO Analyst,2012-10-02,58456.81,11,5,Master's,Los Angeles,99.09,1,24,,On Leave,41,9221.77
+40,Brandon,Chandler,Female,44,Marketing,Marketing Specialist,2021-11-23,66713.43,20,3,Master's,San Francisco,96.26,0,3,,Terminated,144,9344.0
+41,Scott,Short,Female,33,Operations,Operations Coordinator,2011-05-29,51609.28,15,3,PhD,Denver,90.89,1,22,,On Leave,39,8995.81
+42,Kyle,Daniels,Male,43,Sales,Sales Manager,2022-11-30,70682.11,2,4,PhD,Boston,81.1,1,19,851.0,Active,171,8461.09
+43,Gregory,Bradley,Male,27,R&D,Research Analyst,2013-11-09,77437.27,8,5,PhD,Denver,92.53,0,0,,Terminated,132,7080.89
+44,Patricia,Boyd,Female,59,Marketing,Marketing Manager,2015-01-11,89299.2,15,1,PhD,Boston,77.33,1,22,,On Leave,62,7433.22
+45,Michael,Moody,Male,34,Operations,Operations Manager,2012-09-08,73728.53,8,2,PhD,Seattle,78.02,0,3,,Terminated,190,5816.27
+46,Ethan,Burke,Female,25,Sales,Sales Executive,2012-04-10,65023.15,9,2,Bachelor's,Denver,82.56,0,4,,Active,70,10156.8
+47,Melanie,Johnson,Female,47,Human Resources,Recruiter,2025-03-19,88451.57,15,2,High School,New York,99.14,0,15,,Active,29,7772.4
+48,Ryan,Ramirez,Female,50,IT,IT Manager,2024-12-27,53029.67,7,4,Master's,Los Angeles,90.16,1,7,88.0,On Leave,198,8941.39
+49,Tammy,Jones,Male,32,Human Resources,Recruiter,2024-07-17,108806.65,6,3,PhD,Denver,91.51,0,5,102.0,Terminated,141,8003.66
+50,Cindy,Howard,Male,49,R&D,Product Designer,2014-09-24,117765.14,9,4,Bachelor's,Chicago,76.78,0,8,,On Leave,160,10011.64
+51,Victor,Jones,Female,47,IT,Software Engineer,2016-09-10,105454.84,9,5,PhD,Denver,98.03,1,14,,Active,176,12219.37
+52,Cody,Gibson,Male,39,Human Resources,HR Manager,2018-12-26,67540.47,19,1,Bachelor's,Denver,80.72,0,18,,Terminated,150,10208.39
+53,Andrew,Garcia,Male,28,R&D,Product Designer,2016-11-23,87947.35,18,4,Master's,Los Angeles,99.23,1,13,,Terminated,85,10597.79
+54,Courtney,Thompson,Male,47,R&D,Product Designer,2013-03-04,129492.26,12,5,PhD,Los Angeles,75.92,0,8,,Active,82,8185.07
+55,Derrick,Davis,Male,29,Marketing,Marketing Manager,2014-08-06,108794.96,15,1,Bachelor's,Chicago,80.09,1,9,,On Leave,112,14402.6
+56,Heather,Williams,Female,54,Human Resources,Recruiter,2010-12-10,149148.29,7,1,PhD,Denver,86.54,1,4,,On Leave,127,10085.4
+57,Timothy,Mckinney,Female,43,Marketing,SEO Analyst,2022-04-30,60967.14,12,5,High School,Seattle,87.71,1,2,,Terminated,70,11089.86
+58,Valerie,Brown,Female,51,Sales,Business Development Rep,2012-12-29,135178.67,15,4,Bachelor's,Austin,88.46,1,17,,Terminated,195,13756.94
+59,Christina,Martinez,Male,53,Customer Support,Support Agent,2011-01-27,74999.4,1,4,Bachelor's,Boston,92.63,0,12,421.0,Active,169,12878.25
+60,Tracy,Frank,Female,38,R&D,Research Analyst,2014-02-04,41688.24,14,2,PhD,San Francisco,85.25,1,4,,On Leave,19,6178.91
+61,Leah,Gill,Female,27,Customer Support,Customer Service Rep,2019-12-11,135962.13,15,1,High School,San Francisco,90.44,0,21,,On Leave,73,11586.09
+62,Laurie,Johnson,Male,58,IT,IT Manager,2015-02-20,45059.01,0,1,Bachelor's,Chicago,82.33,1,4,,Active,62,4786.45
+63,Mark,Oneal,Female,51,Customer Support,Support Manager,2020-09-17,140411.19,15,2,Bachelor's,San Francisco,80.8,0,14,,On Leave,65,20455.9
+64,Kimberly,Brady,Female,37,Operations,Logistics Officer,2018-10-01,115934.49,13,4,Master's,Seattle,96.13,0,12,,Terminated,123,9261.14
+65,Lori,Holland,Male,40,Sales,Sales Executive,2020-03-22,70192.84,12,5,Master's,Austin,96.63,1,1,675.0,Terminated,155,11704.43
+66,Tiffany,Aguilar,Female,27,Marketing,Marketing Manager,2013-06-13,109107.29,4,1,Master's,Los Angeles,82.72,0,18,,Active,93,12669.92
+67,Robert,Wolf,Female,29,Marketing,Marketing Specialist,2019-10-12,98393.76,11,3,High School,Chicago,95.76,1,15,,Active,75,8712.33
+68,Adam,Barnes,Female,59,Customer Support,Support Manager,2024-05-05,41531.05,12,5,Master's,San Francisco,78.09,1,23,,Terminated,172,4372.71
+69,Martin,Smith,Male,48,Marketing,SEO Analyst,2016-01-23,76080.69,17,5,Bachelor's,New York,80.53,1,14,,Active,179,4525.47
+70,Lauren,Martin,Male,59,Sales,Sales Manager,2016-04-26,137598.52,7,2,PhD,San Francisco,84.72,1,23,,On Leave,178,14537.52
+71,Scott,Ayala,Female,56,Customer Support,Customer Service Rep,2011-02-02,63899.67,11,4,High School,Los Angeles,98.76,1,3,,On Leave,175,11394.43
+72,Michael,Jenkins,Male,37,Marketing,Marketing Specialist,2023-12-27,50084.08,14,2,Bachelor's,San Francisco,91.04,1,0,844.0,Terminated,12,6990.33
+73,Elizabeth,Myers,Female,56,Marketing,Marketing Manager,2020-10-07,76141.55,7,2,Bachelor's,San Francisco,94.72,0,8,,Terminated,37,10613.92
+74,Mary,Ortega,Female,26,Human Resources,HR Assistant,2025-01-01,104773.82,7,1,PhD,Boston,79.36,0,23,,Terminated,107,6062.2
+75,Diane,Zamora,Female,47,Finance,Financial Analyst,2021-12-17,44770.15,19,5,High School,Denver,82.54,1,0,,Terminated,15,6558.88
+76,Bryan,Black,Female,46,R&D,Research Analyst,2019-08-23,56316.72,19,2,PhD,Los Angeles,81.88,1,17,330.0,Active,182,8163.76
+77,William,Carrillo,Female,47,Finance,Finance Manager,2014-11-19,119292.39,17,2,High School,Boston,85.75,1,13,,On Leave,86,21855.99
+78,Allison,Quinn,Male,45,Operations,Logistics Officer,2025-08-11,115550.31,4,4,High School,Boston,76.68,0,2,,Terminated,110,20194.24
+79,Pamela,Schmidt,Female,31,Finance,Financial Analyst,2015-12-16,135490.14,13,1,Bachelor's,San Francisco,99.21,0,11,,On Leave,26,18976.95
+80,Nicholas,Ortiz,Female,60,Operations,Operations Coordinator,2012-06-01,64877.5,18,4,High School,Chicago,96.13,0,19,,On Leave,157,12727.8
+81,Colin,Lester,Male,27,Sales,Sales Manager,2012-12-02,135684.9,5,5,PhD,Los Angeles,91.43,0,23,,On Leave,162,8200.5
+82,Teresa,Rodriguez,Female,27,Operations,Operations Coordinator,2019-11-27,125451.92,10,5,PhD,Los Angeles,89.91,0,4,,On Leave,40,22895.14
+83,Emily,Hull,Male,24,R&D,Product Designer,2024-01-27,52519.93,16,4,PhD,New York,77.77,1,18,,Active,124,7968.99
+84,Christopher,Mayer,Female,30,Marketing,SEO Analyst,2025-04-08,124057.7,4,3,Bachelor's,Boston,83.2,0,23,786.0,Active,110,6346.73
+85,Heather,Combs,Male,40,Customer Support,Support Manager,2020-09-24,90572.97,0,1,PhD,New York,96.55,1,18,,On Leave,103,12350.88
+86,Jennifer,Duke,Female,41,IT,IT Manager,2023-08-24,49694.29,11,1,Bachelor's,Boston,81.08,1,16,,Active,20,6874.25
+87,Jeffery,Anthony,Male,28,Finance,Finance Manager,2013-08-06,96094.73,16,3,Master's,Austin,83.78,0,20,,Active,37,18616.77
+88,Carolyn,Davenport,Male,42,IT,IT Manager,2010-10-19,94352.87,20,5,PhD,San Francisco,94.0,1,18,,On Leave,164,11070.97
+89,Zachary,King,Female,45,R&D,R&D Manager,2017-08-08,105056.17,8,3,High School,San Francisco,87.68,0,14,,Terminated,9,10144.35
+90,Richard,Cruz,Female,25,Customer Support,Customer Service Rep,2024-08-23,89470.71,1,5,High School,Boston,91.3,0,15,,Terminated,128,8788.62
+91,Robert,Orozco,Female,45,Finance,Finance Manager,2013-12-13,67251.81,1,4,PhD,Los Angeles,99.77,1,19,,On Leave,40,8649.27
+92,Kyle,Porter,Male,43,Human Resources,Recruiter,2023-07-06,76265.98,2,5,Bachelor's,Boston,91.96,0,23,,On Leave,168,7063.91
+93,Kevin,Lewis,Female,49,Customer Support,Support Agent,2022-12-17,74054.01,2,4,High School,Boston,91.09,0,4,,On Leave,171,7351.45
+94,Steven,Conway,Male,43,IT,Software Engineer,2018-06-08,61120.58,15,2,PhD,Chicago,78.87,0,25,,Active,25,5767.88
+95,Jennifer,Allen,Male,50,IT,IT Manager,2019-07-18,119330.13,5,1,Bachelor's,Seattle,85.27,1,7,,On Leave,113,18073.08
+96,James,Suarez,Male,32,Marketing,SEO Analyst,2023-02-18,148288.38,18,4,Bachelor's,Seattle,94.24,1,16,,Active,135,24722.43
+97,Louis,Shepard,Male,50,R&D,Product Designer,2015-07-08,118254.11,3,5,PhD,San Francisco,96.28,1,24,,Active,41,10969.19
+98,Misty,Rodriguez,Male,42,R&D,Product Designer,2017-10-23,83609.94,1,3,Master's,Chicago,80.89,0,11,425.0,Active,57,16653.33
+99,Jeremy,Hernandez,Male,35,Human Resources,HR Manager,2016-09-06,123472.53,4,4,PhD,San Francisco,86.22,1,2,484.0,On Leave,4,6270.88
+100,Mike,Martinez,Male,54,Marketing,SEO Analyst,2018-01-24,86180.81,7,5,Bachelor's,Seattle,86.43,0,15,,On Leave,152,5742.11
+101,Michael,Molina,Female,46,Human Resources,Recruiter,2015-10-28,85822.44,18,1,High School,Los Angeles,88.09,0,16,,On Leave,139,8933.31
+102,Becky,Morgan,Female,44,Sales,Business Development Rep,2012-05-27,77928.27,2,1,Bachelor's,Denver,94.29,0,10,,Terminated,34,12490.19
+103,Mary,Hull,Female,42,R&D,R&D Manager,2022-03-10,46941.06,4,4,PhD,Denver,75.92,0,25,,On Leave,51,3766.49
+104,Lawrence,Brown,Female,47,Human Resources,Recruiter,2023-03-03,134835.24,11,1,PhD,Boston,96.64,1,3,,Active,94,13455.03
+105,Joshua,Huffman,Male,42,R&D,R&D Manager,2025-09-25,69339.28,16,1,High School,Boston,93.18,1,19,,Terminated,46,4287.88
+106,Aaron,Salas,Male,39,Sales,Sales Manager,2014-11-01,58330.92,13,4,High School,Los Angeles,83.79,1,11,,On Leave,157,3287.14
+107,Courtney,Cobb,Female,45,IT,Software Engineer,2015-10-23,114589.78,19,4,High School,Chicago,75.87,1,24,,Terminated,165,6885.13
+108,Laura,Frost,Male,23,R&D,Product Designer,2023-01-10,103131.4,2,5,PhD,Los Angeles,84.17,0,8,,Terminated,63,10020.02
+109,Samantha,Brown,Male,30,Finance,Financial Analyst,2019-07-22,63602.75,14,5,PhD,Chicago,82.14,0,15,,Terminated,51,11923.72
+110,Katherine,Clark,Male,45,R&D,Research Analyst,2014-02-20,113462.38,10,1,High School,Austin,88.75,0,9,,Active,40,10614.9
+111,Amanda,Allen,Female,41,Marketing,SEO Analyst,2015-09-28,102950.51,17,4,PhD,Los Angeles,95.09,0,19,,On Leave,22,13666.38
+112,Larry,Thomas,Female,30,Finance,Accountant,2021-07-05,89497.19,2,5,High School,San Francisco,83.61,0,24,658.0,Terminated,141,16261.1
+113,Daniel,Brown,Female,34,IT,System Administrator,2018-08-20,142821.16,10,2,Bachelor's,Seattle,83.65,1,9,,Terminated,20,27298.21
+114,Matthew,Williams,Male,23,Finance,Finance Manager,2016-06-21,143576.77,18,2,High School,Seattle,79.28,0,19,,Terminated,86,20627.94
+115,Julie,Harrell,Female,41,Marketing,Marketing Manager,2011-06-02,43331.45,20,5,High School,New York,82.24,1,15,,Active,62,8384.53
+116,Melissa,King,Female,30,R&D,Product Designer,2025-09-15,77421.18,6,2,High School,Boston,82.81,1,23,,Active,88,12213.53
+117,Ryan,Rojas,Female,32,R&D,Research Analyst,2017-01-30,55496.54,7,1,Master's,Austin,82.26,0,19,,Active,107,5972.67
+118,Richard,Blankenship,Male,25,R&D,R&D Manager,2022-04-05,94710.73,9,1,Master's,Denver,98.63,1,7,,Terminated,55,11916.19
+119,Nicole,Scott,Male,25,R&D,Product Designer,2020-05-14,87402.05,3,3,Master's,Seattle,93.19,1,11,,Active,11,14384.5
+120,Stephen,Randolph,Female,43,Customer Support,Support Manager,2017-06-26,70769.27,17,5,Bachelor's,Austin,92.01,1,3,,Terminated,100,4799.69
+121,Manuel,Campbell,Female,42,Customer Support,Support Manager,2013-01-27,55074.0,1,3,Bachelor's,Los Angeles,95.1,0,4,,Terminated,155,7043.96
+122,Trevor,Fry,Female,48,Sales,Business Development Rep,2012-03-03,98557.38,16,5,High School,Denver,82.49,0,11,,On Leave,84,16987.58
+123,Joe,Davis,Male,58,Marketing,Marketing Manager,2023-06-07,58756.33,15,5,Bachelor's,New York,94.37,0,21,,On Leave,62,6288.6
+124,Ashley,Olson,Male,30,Operations,Operations Manager,2022-03-21,85141.52,6,5,Master's,Denver,98.01,0,23,,Terminated,186,15404.03
+125,Susan,Vega,Male,52,Customer Support,Customer Service Rep,2016-03-23,77655.97,17,3,Bachelor's,Seattle,91.9,1,21,471.0,Terminated,164,13989.58
+126,Abigail,Sims,Male,40,Sales,Sales Executive,2014-04-03,117539.1,9,4,PhD,Los Angeles,82.93,1,25,305.0,On Leave,184,12026.66
+127,Alexis,Velez,Female,57,IT,System Administrator,2014-05-12,78099.99,2,4,Bachelor's,San Francisco,91.4,1,6,,Terminated,51,12660.07
+128,Robert,Duncan,Male,30,Marketing,Marketing Specialist,2025-09-13,64823.88,16,2,Bachelor's,Los Angeles,76.31,0,22,,Terminated,120,7259.96
+129,Ray,Barnett,Female,33,R&D,Product Designer,2012-09-14,75328.45,9,1,Bachelor's,New York,97.7,0,18,,On Leave,59,4777.26
+130,Brian,Coleman,Female,56,R&D,Research Analyst,2012-05-12,136441.75,9,1,Bachelor's,Denver,82.46,1,10,986.0,On Leave,72,19158.8
+131,Sheryl,Thompson,Female,33,Marketing,Marketing Specialist,2016-08-16,111311.39,14,2,PhD,Boston,75.35,0,9,,Active,145,11194.23
+132,Chelsea,Morris,Female,43,Customer Support,Support Manager,2012-08-09,92519.95,4,2,High School,Seattle,75.17,1,14,,Terminated,192,9949.24
+133,Stacy,Carter,Female,29,Operations,Logistics Officer,2020-11-09,91193.45,3,2,Master's,Austin,85.14,1,22,,Active,197,11433.66
+134,Robert,Sullivan,Male,37,IT,System Administrator,2011-02-04,81098.73,19,5,PhD,Boston,97.82,0,25,,Active,170,13267.96
+135,Donald,Cummings,Female,35,Finance,Accountant,2017-10-10,62237.25,16,5,High School,Denver,78.75,0,16,,Active,113,6175.03
+136,Nathan,Garcia,Male,38,R&D,Research Analyst,2012-04-07,102030.23,14,5,Bachelor's,San Francisco,86.56,1,23,,Active,5,17450.98
+137,Carrie,Morgan,Female,30,Customer Support,Customer Service Rep,2024-12-12,149353.6,17,1,Master's,Los Angeles,99.65,0,9,,On Leave,104,18043.51
+138,Scott,Vincent,Male,36,Customer Support,Customer Service Rep,2010-12-13,54628.88,17,3,High School,Seattle,77.97,0,12,,On Leave,135,10867.16
+139,Angela,Downs,Female,24,Customer Support,Support Manager,2015-09-21,67226.32,7,3,High School,Austin,78.88,0,23,,Active,195,5261.94
+140,Teresa,Gonzalez,Male,25,Finance,Accountant,2024-11-09,105756.34,14,1,Master's,Austin,81.12,0,14,,Terminated,59,5989.56
+141,Mallory,Cummings,Male,25,Operations,Logistics Officer,2023-10-04,66059.44,10,2,PhD,Denver,99.64,1,13,,Active,76,8468.0
+142,Kelsey,Ramirez,Male,37,Operations,Logistics Officer,2020-06-14,75060.79,16,4,Master's,Chicago,85.21,1,5,,On Leave,193,7129.52
+143,Luke,Washington,Female,50,Human Resources,Recruiter,2019-05-04,101301.54,13,2,High School,Austin,84.71,0,10,,Active,165,8939.79
+144,Timothy,Rivera,Male,52,Sales,Sales Manager,2019-02-13,44350.23,19,1,Master's,Seattle,79.7,0,23,,Active,171,7284.72
+145,Jeffrey,Peterson,Female,40,Marketing,Marketing Specialist,2019-09-11,140588.54,15,5,PhD,Boston,92.59,1,7,121.0,On Leave,141,15393.72
+146,Anne,Weiss,Male,48,Sales,Sales Manager,2021-08-30,91260.45,15,4,Bachelor's,Chicago,94.04,1,6,,Active,94,8946.72
+147,Alan,Martinez,Female,38,Sales,Business Development Rep,2018-01-27,72471.15,13,2,PhD,Denver,83.25,1,7,594.0,Active,127,7752.67
+148,Nathan,Cruz,Male,25,Operations,Operations Coordinator,2024-09-22,93714.8,17,5,PhD,Chicago,99.76,0,16,,Terminated,8,18141.83
+149,James,Melton,Male,53,Marketing,Marketing Specialist,2013-08-27,64059.16,0,4,High School,Los Angeles,84.33,1,21,,Active,157,9139.66
+150,Patricia,Chavez,Male,28,Human Resources,Recruiter,2023-02-13,147522.73,17,1,Bachelor's,Austin,87.56,0,13,,Terminated,45,22818.65
+151,Patrick,Moon,Male,27,Sales,Sales Manager,2015-04-20,48692.12,12,4,High School,Los Angeles,86.47,1,22,,On Leave,57,4210.95
+152,Alexandra,Lyons,Male,58,Customer Support,Support Manager,2018-02-02,41039.52,20,2,High School,Austin,77.07,1,20,,Active,200,7255.77
+153,Kari,Valenzuela,Male,23,R&D,Product Designer,2024-09-17,115287.16,2,3,Bachelor's,Los Angeles,97.48,1,1,,Active,45,15509.18
+154,Brandon,Rogers,Female,27,Sales,Sales Executive,2012-01-13,131811.56,18,4,High School,San Francisco,91.93,0,12,,On Leave,193,17278.43
+155,Samantha,White,Male,53,Marketing,Marketing Specialist,2020-07-19,145034.42,19,4,Master's,Los Angeles,99.22,1,20,,On Leave,69,14352.1
+156,Robert,Medina,Female,31,IT,IT Manager,2018-07-24,49426.35,12,5,Bachelor's,Los Angeles,82.38,1,2,,On Leave,21,4298.48
+157,David,Rodriguez,Male,28,Operations,Operations Coordinator,2020-12-04,88920.95,9,3,High School,Boston,77.56,1,13,,Terminated,114,5610.43
+158,Denise,Gonzalez,Male,58,Finance,Finance Manager,2012-06-17,135009.0,10,1,PhD,Chicago,82.3,0,2,,Active,185,14603.91
+159,Michael,Drake,Male,38,Sales,Sales Manager,2014-09-10,46959.39,4,4,PhD,Austin,81.9,1,25,,On Leave,19,4459.4
+160,Kimberly,Davies,Male,60,Finance,Accountant,2013-05-26,76543.89,12,5,Master's,Boston,84.5,1,14,,Terminated,85,13726.6
+161,Elizabeth,Fisher,Female,42,Marketing,SEO Analyst,2020-03-13,146559.77,12,3,Master's,Los Angeles,93.37,0,18,,On Leave,200,21241.69
+162,Kathryn,Ballard,Male,40,Finance,Finance Manager,2016-06-19,59791.99,17,5,PhD,Denver,75.67,1,22,,Active,53,9511.83
+163,Mary,Stevenson,Female,56,Sales,Sales Executive,2022-10-06,118676.0,4,4,High School,Boston,76.85,1,15,,Terminated,149,23569.66
+164,Nathan,Burch,Female,43,Finance,Accountant,2019-09-02,58297.23,11,5,High School,New York,76.11,1,21,,Active,165,11516.11
+165,Amanda,Dunn,Male,44,Sales,Sales Executive,2016-10-11,101379.28,16,5,PhD,San Francisco,80.53,0,14,,On Leave,197,10758.16
+166,Brian,White,Female,28,Customer Support,Support Agent,2013-03-02,78316.15,4,3,PhD,Boston,86.38,1,15,,Active,89,6345.97
+167,Thomas,Madden,Male,55,Sales,Sales Executive,2015-10-04,42484.36,3,3,Bachelor's,Boston,91.2,0,5,,Terminated,189,6439.39
+168,Dale,Martinez,Female,50,Customer Support,Customer Service Rep,2019-02-25,109273.64,12,2,PhD,New York,91.01,0,0,,Terminated,188,12546.82
+169,Steven,Davis,Female,53,Marketing,Marketing Specialist,2025-01-20,103508.27,2,5,PhD,Los Angeles,79.67,1,14,,Terminated,29,10236.73
+170,Dawn,Chandler,Male,29,Finance,Financial Analyst,2012-07-06,107909.89,14,3,Master's,San Francisco,97.97,1,21,,Active,34,14948.25
+171,Marissa,Hill,Male,57,Operations,Logistics Officer,2021-12-04,86006.3,12,2,PhD,Seattle,89.37,0,15,,Active,162,9757.92
+172,Kevin,Parker,Female,48,IT,System Administrator,2017-10-25,45897.24,19,3,PhD,Denver,98.8,1,6,,On Leave,98,5631.19
+173,Chloe,French,Male,57,IT,Software Engineer,2017-10-17,72129.89,7,3,High School,Seattle,80.62,1,24,,Terminated,117,6729.76
+174,Tamara,Rodriguez,Male,41,Operations,Logistics Officer,2020-05-23,123600.45,1,4,PhD,Seattle,88.66,0,3,,On Leave,188,24530.53
+175,Brett,Martinez,Male,32,Finance,Financial Analyst,2021-03-31,63086.6,7,5,Bachelor's,Austin,92.23,1,19,121.0,Active,161,11302.43
+176,Thomas,Guzman,Female,30,Operations,Logistics Officer,2015-03-10,58521.51,17,3,High School,Seattle,82.23,0,16,,Terminated,173,5272.87
+177,Rachel,Reynolds,Female,48,IT,IT Manager,2011-05-04,118253.43,4,2,PhD,San Francisco,94.04,1,15,256.0,Terminated,36,17907.73
+178,Michael,Hawkins,Female,51,Finance,Financial Analyst,2019-07-03,116417.4,8,3,High School,Los Angeles,86.37,0,18,,Active,0,14343.4
+179,Vincent,Petty,Male,24,Customer Support,Support Agent,2024-09-15,131117.8,10,3,PhD,New York,88.68,0,15,,Active,87,9124.37
+180,Joseph,Singleton,Male,38,IT,System Administrator,2021-09-28,62255.0,13,2,Master's,Chicago,97.05,1,8,,Active,23,5931.65
+181,Russell,Johnson,Male,59,Customer Support,Support Manager,2015-09-24,87215.4,7,1,PhD,New York,92.59,0,15,,Active,19,4374.98
+182,Valerie,Smith,Female,45,Operations,Operations Coordinator,2019-03-07,92547.03,4,2,Bachelor's,Los Angeles,84.58,1,3,433.0,Active,26,14771.85
+183,David,Hampton,Female,48,IT,Software Engineer,2021-04-04,107135.12,0,2,Bachelor's,San Francisco,86.0,0,20,,Active,191,16966.43
+184,Joshua,Frank,Female,37,IT,Software Engineer,2025-03-18,78668.92,12,4,High School,Seattle,82.86,0,8,,Active,165,5583.49
+185,Cassandra,Davis,Male,55,Marketing,Marketing Manager,2024-01-15,46002.6,20,2,Master's,Boston,87.37,0,15,,Active,163,3078.11
+186,Rachel,Jones,Female,22,Customer Support,Support Manager,2011-12-17,115123.63,17,4,Bachelor's,New York,98.86,0,0,,Active,150,19059.3
+187,Lisa,Warner,Male,39,Customer Support,Support Manager,2024-08-26,124382.1,16,4,Master's,San Francisco,92.55,0,17,,Terminated,137,7756.99
+188,Edward,Gonzalez,Female,27,Marketing,Marketing Specialist,2012-06-22,104508.09,12,1,High School,Denver,82.75,0,7,,Terminated,14,12083.53
+189,Brenda,Diaz,Female,32,Human Resources,HR Manager,2016-01-29,53138.73,5,2,Bachelor's,Seattle,92.54,1,11,,Terminated,133,3962.82
+190,Susan,Blake,Female,51,Finance,Accountant,2011-01-18,69917.87,13,1,High School,Denver,81.57,1,20,,Terminated,19,13721.91
+191,Elizabeth,Watson,Female,24,IT,System Administrator,2013-04-16,138369.53,3,1,Master's,Los Angeles,80.71,0,1,,Active,3,17479.36
+192,Lindsay,Simmons,Female,58,IT,Software Engineer,2018-11-26,86130.62,20,3,High School,New York,81.21,0,10,,Active,69,16139.0
+193,Kimberly,Velasquez,Female,57,Marketing,Marketing Manager,2022-06-11,47581.91,12,4,High School,Boston,96.65,0,9,977.0,Active,83,7899.98
+194,Wesley,Smith,Male,56,Sales,Business Development Rep,2012-06-06,66684.24,19,3,Bachelor's,New York,89.79,0,24,,On Leave,198,8269.12
+195,Nathan,Alvarez,Male,28,Human Resources,HR Assistant,2011-06-24,132353.14,20,1,Bachelor's,Los Angeles,98.77,1,21,,On Leave,96,6646.68
+196,Melissa,Wiley,Male,27,Human Resources,HR Assistant,2013-09-16,44829.03,2,2,Bachelor's,Los Angeles,97.43,1,22,,Active,95,5736.5
+197,Christine,Whitaker,Female,42,Human Resources,HR Manager,2025-06-19,66044.89,4,3,Master's,Austin,96.27,1,12,,Active,179,12476.3
+198,David,Fernandez,Female,35,Marketing,Marketing Specialist,2015-11-06,51987.01,18,1,Master's,Denver,79.11,1,13,,On Leave,30,6233.67
+199,Anthony,Anthony,Female,37,Finance,Accountant,2022-03-05,130902.54,9,5,PhD,New York,76.01,0,10,,Terminated,37,22958.83
+200,Jonathan,Davis,Male,51,Sales,Sales Manager,2013-09-12,43419.03,5,4,Bachelor's,San Francisco,96.37,0,17,,Active,63,5791.8
+201,Jennifer,Anthony,Female,34,Human Resources,HR Assistant,2013-10-04,80946.37,12,1,Bachelor's,San Francisco,89.56,0,2,,On Leave,5,7189.91
+202,Gilbert,Roberts,Female,33,Finance,Accountant,2024-10-21,141654.49,5,4,Bachelor's,Chicago,95.54,1,0,52.0,On Leave,97,15475.73
+203,Robert,Johnson,Female,27,Sales,Sales Manager,2020-07-01,108109.42,19,2,PhD,Chicago,91.18,0,17,36.0,On Leave,122,13495.7
+204,James,Moreno,Female,52,Marketing,Marketing Manager,2018-02-08,109382.98,7,5,Master's,Boston,94.87,1,25,539.0,On Leave,182,21702.74
+205,Thomas,Bishop,Male,32,Sales,Sales Executive,2017-10-21,64092.22,19,3,Bachelor's,Austin,76.46,0,16,,On Leave,91,12737.03
+206,Kevin,Diaz,Male,59,Human Resources,HR Assistant,2025-05-06,79028.51,12,2,Master's,Chicago,79.4,1,25,,Terminated,188,10975.32
+207,Sandra,Snow,Female,22,Marketing,SEO Analyst,2022-03-06,93948.01,5,1,Bachelor's,Chicago,76.4,1,0,,On Leave,134,13176.15
+208,Karen,Lee,Male,47,IT,System Administrator,2023-08-01,104527.01,4,2,Master's,Seattle,94.36,1,11,,On Leave,18,18498.37
+209,Justin,Harris,Male,36,IT,Software Engineer,2017-09-18,127102.68,13,4,PhD,Seattle,91.23,1,17,,Terminated,177,9676.38
+210,Michelle,Mack,Female,60,Sales,Sales Executive,2014-07-02,144366.69,0,5,Bachelor's,San Francisco,84.79,0,18,,On Leave,8,28749.54
+211,Anna,Andrews,Male,50,IT,System Administrator,2013-08-12,78149.11,7,3,Master's,Austin,79.2,1,2,,Active,181,14285.5
+212,Mark,Miller,Female,46,Finance,Financial Analyst,2016-08-24,119245.49,3,1,PhD,San Francisco,84.65,1,5,,On Leave,105,19065.88
+213,Andrew,Bailey,Male,32,Marketing,Marketing Specialist,2013-03-13,72439.95,1,3,High School,Boston,81.53,1,10,,Terminated,43,4759.94
+214,Charles,Hernandez,Female,57,R&D,R&D Manager,2025-04-17,58149.69,20,4,Master's,Seattle,78.93,1,6,,Active,48,3790.7
+215,Courtney,Arnold,Male,34,Finance,Accountant,2018-02-23,132384.0,17,2,High School,Austin,76.36,1,2,,Active,75,6694.97
+216,Carl,Spence,Female,33,Sales,Sales Executive,2018-03-23,73918.87,3,4,PhD,Boston,86.77,1,8,,Active,23,13618.19
+217,Katherine,Schmidt,Female,27,R&D,Research Analyst,2024-09-29,68974.09,14,3,PhD,Austin,89.11,0,22,,Terminated,170,5012.32
+218,James,Castillo,Male,24,Human Resources,HR Manager,2011-10-16,146219.05,13,4,High School,Denver,89.32,1,9,,Active,20,12479.26
+219,Tiffany,Stafford,Male,42,IT,Software Engineer,2025-02-19,44694.35,4,1,High School,Los Angeles,99.71,1,20,,Terminated,37,5153.66
+220,Robert,Taylor,Female,29,Customer Support,Support Manager,2016-11-17,97165.7,8,1,Bachelor's,Chicago,94.66,1,16,,Terminated,200,13939.26
+221,Amanda,Wall,Female,58,Finance,Accountant,2025-06-08,126432.02,3,5,High School,Chicago,97.0,1,8,,On Leave,98,22970.68
+222,Shawn,Richardson,Female,23,Customer Support,Support Agent,2013-07-22,44266.08,12,3,Master's,Seattle,92.26,1,15,,On Leave,68,2540.59
+223,Kyle,Watkins,Female,34,R&D,R&D Manager,2013-12-31,54782.41,7,4,Bachelor's,Los Angeles,94.35,0,23,,Terminated,106,5375.81
+224,Joseph,Mitchell,Male,33,R&D,R&D Manager,2025-03-12,96679.67,1,2,Bachelor's,New York,76.64,0,12,841.0,Active,34,15124.12
+225,Pamela,Flores,Male,23,Human Resources,HR Manager,2020-02-24,117509.73,11,3,Master's,Denver,84.21,0,12,,Terminated,162,14058.01
+226,Christopher,Brown,Male,40,R&D,Research Analyst,2019-12-17,100646.71,18,3,PhD,New York,79.09,0,23,486.0,Active,176,18536.49
+227,Matthew,Williams,Male,52,Marketing,Marketing Specialist,2016-10-19,69599.19,6,4,Bachelor's,New York,87.83,0,24,,Active,174,12506.59
+228,Andrea,Goodwin,Female,35,Sales,Business Development Rep,2013-10-19,118401.45,9,3,Master's,Los Angeles,85.6,1,11,,Terminated,117,12606.36
+229,Amber,Yates,Female,43,Finance,Accountant,2012-02-09,101760.28,11,5,Master's,Seattle,90.23,0,3,,On Leave,123,9643.96
+230,David,Smith,Female,53,Sales,Sales Executive,2010-12-11,138965.57,7,5,Master's,Los Angeles,85.1,0,4,,On Leave,184,13609.99
+231,Lee,Lynch,Female,44,Customer Support,Support Manager,2018-06-14,129761.62,18,3,Bachelor's,Chicago,93.16,1,17,,On Leave,163,10816.21
+232,Tyler,Cole,Female,36,Finance,Financial Analyst,2014-08-04,119770.53,8,5,Bachelor's,Seattle,94.07,0,21,,On Leave,85,9277.46
+233,Lisa,Stevens,Male,52,Operations,Operations Manager,2018-11-25,91013.67,9,1,High School,Los Angeles,86.76,0,18,,Terminated,148,16378.73
+234,Matthew,Oliver,Male,33,Sales,Sales Manager,2021-05-16,55110.18,4,2,PhD,Boston,83.57,1,14,,Terminated,36,10916.16
+235,Kim,Gonzalez,Male,27,IT,System Administrator,2016-04-22,89725.86,0,2,PhD,Los Angeles,94.03,1,24,,On Leave,40,6755.54
+236,Meagan,Ayala,Male,23,Customer Support,Customer Service Rep,2021-10-07,98716.09,1,3,Bachelor's,Austin,98.75,0,24,,Terminated,135,18144.11
+237,Ryan,Garrett,Female,55,Operations,Operations Manager,2019-06-07,95367.01,12,3,PhD,Chicago,79.18,1,9,,On Leave,74,16553.48
+238,Michelle,Pearson,Male,59,R&D,Product Designer,2012-12-25,144289.28,5,4,High School,Boston,75.48,0,4,,Terminated,54,12069.54
+239,Melissa,Stark,Female,29,Human Resources,HR Manager,2012-12-16,108544.83,17,5,PhD,Los Angeles,99.87,0,20,262.0,Active,5,16205.25
+240,Randy,Russell,Male,60,Sales,Sales Manager,2015-05-15,116471.12,6,1,PhD,San Francisco,82.53,1,21,,Terminated,133,17383.28
+241,Dawn,Shepard,Female,48,Finance,Financial Analyst,2015-07-01,94751.3,3,5,Bachelor's,New York,79.99,1,16,,Terminated,51,8475.42
+242,Benjamin,Phelps,Male,31,R&D,Research Analyst,2016-03-05,76366.4,15,1,High School,San Francisco,75.32,1,3,,On Leave,146,4837.84
+243,Caitlin,Buckley,Male,49,Marketing,SEO Analyst,2011-03-22,91070.51,8,1,High School,New York,95.33,1,9,304.0,Active,92,16494.79
+244,Carolyn,Burke,Male,43,IT,IT Manager,2011-12-15,79328.01,10,4,High School,Los Angeles,98.88,1,23,,On Leave,23,7159.07
+245,Edward,Riggs,Female,48,R&D,Product Designer,2017-12-30,127988.9,15,2,PhD,Chicago,77.83,0,1,,Terminated,40,19764.75
+246,Stephanie,Boyd,Male,42,Customer Support,Customer Service Rep,2014-01-14,93138.76,4,4,Bachelor's,Boston,77.82,1,1,,Terminated,16,10402.91
+247,Ashley,Martin,Female,32,Finance,Financial Analyst,2013-10-26,93012.26,7,4,PhD,Chicago,78.72,0,19,,Active,13,16180.94
+248,Tracy,Jacobson,Female,50,R&D,Product Designer,2021-08-31,45538.58,8,2,High School,Denver,88.76,1,7,,On Leave,20,4863.32
+249,Jill,Miller,Male,54,Operations,Operations Coordinator,2018-04-09,41954.6,20,4,PhD,Boston,85.31,1,0,764.0,On Leave,23,5603.86
+250,Joseph,Chen,Male,29,Human Resources,HR Assistant,2022-07-14,101616.59,10,5,Bachelor's,New York,90.0,1,11,,On Leave,183,16004.48
+251,Tony,Glover,Female,28,Operations,Logistics Officer,2016-03-29,97418.36,17,1,Bachelor's,Austin,76.14,1,4,299.0,Active,183,7269.68
+252,Hayden,Castillo,Female,50,Customer Support,Support Agent,2013-05-14,118846.67,6,1,Bachelor's,Denver,93.93,0,20,,Active,172,6771.3
+253,Donald,Green,Male,30,Human Resources,Recruiter,2016-12-30,93122.52,18,5,PhD,Boston,94.53,0,22,859.0,Terminated,148,17369.89
+254,Kathryn,Sims,Female,60,Customer Support,Customer Service Rep,2013-06-05,70095.55,7,3,Master's,Austin,99.26,1,4,938.0,Active,35,8266.15
+255,Henry,Hunter,Female,29,Marketing,Marketing Manager,2022-03-09,141331.09,11,2,PhD,Los Angeles,99.53,1,5,,Terminated,128,20848.17
+256,Paula,Ruiz,Female,40,Sales,Sales Manager,2015-03-13,51711.75,16,4,Bachelor's,New York,78.63,0,6,,Terminated,68,7784.59
+257,Tina,Wiley,Female,57,Sales,Sales Executive,2015-01-20,79455.07,1,4,Bachelor's,Seattle,77.56,0,23,,Terminated,143,14318.23
+258,Candice,Ortega,Female,36,Human Resources,HR Manager,2024-11-01,146241.65,10,1,Bachelor's,Austin,75.32,1,19,,On Leave,199,12825.56
+259,Sara,Durham,Male,30,R&D,Research Analyst,2015-08-02,145872.28,5,5,Master's,New York,77.98,1,8,77.0,On Leave,142,8182.73
+260,Christian,Duran,Female,53,R&D,R&D Manager,2020-06-07,142149.11,4,5,High School,Boston,76.27,1,19,41.0,Terminated,169,26988.04
+261,Joyce,King,Female,43,Marketing,Marketing Specialist,2023-09-12,57530.75,16,5,Master's,Austin,88.43,1,7,,Terminated,54,3669.99
+262,Chelsea,Rodriguez,Female,24,R&D,R&D Manager,2020-08-05,40968.41,20,3,PhD,San Francisco,86.14,0,19,,On Leave,159,7606.79
+263,Katie,Cole,Female,34,Sales,Business Development Rep,2017-12-10,140246.95,0,3,High School,San Francisco,87.86,1,15,,Active,11,17714.64
+264,Tara,Davidson,Male,26,Human Resources,Recruiter,2018-05-10,125094.05,20,4,High School,Denver,95.89,1,22,,Terminated,189,10112.22
+265,Shelly,Flores,Female,46,Operations,Operations Coordinator,2022-10-28,59579.14,1,3,PhD,Los Angeles,88.95,1,7,,On Leave,66,8117.32
+266,Javier,Weaver,Male,44,Human Resources,HR Manager,2012-02-26,40648.88,17,5,Master's,Seattle,76.58,0,1,,Terminated,179,6580.76
+267,Timothy,Hill,Female,56,Finance,Financial Analyst,2020-12-08,81955.49,14,1,Bachelor's,Seattle,86.85,1,4,,Terminated,191,10655.87
+268,Jessica,Maldonado,Male,41,Operations,Operations Coordinator,2021-01-21,55551.13,17,1,Master's,Austin,75.13,0,17,,On Leave,140,7749.28
+269,Tina,Reyes,Male,57,IT,Software Engineer,2023-02-06,131822.32,19,2,Master's,San Francisco,77.87,1,18,,On Leave,13,19858.6
+270,Sheri,Clark,Female,34,Finance,Accountant,2021-01-15,144669.39,15,3,PhD,Denver,78.21,0,3,,On Leave,72,21457.5
+271,Susan,Davis,Female,49,Sales,Business Development Rep,2025-07-11,102354.81,18,3,Master's,Chicago,98.97,0,10,,Terminated,63,7706.9
+272,Christine,Mclean,Male,30,Operations,Operations Manager,2017-01-29,125224.37,11,4,Master's,San Francisco,88.79,1,19,,Terminated,20,9562.82
+273,Theresa,Pearson,Female,56,Finance,Accountant,2018-03-02,43431.37,20,5,Bachelor's,Boston,89.47,1,6,,On Leave,9,7182.68
+274,Elizabeth,Reed,Male,32,Marketing,Marketing Manager,2019-08-01,54726.94,9,5,PhD,Chicago,87.76,0,16,,Active,2,5993.57
+275,Tony,Ward,Female,55,IT,IT Manager,2011-08-08,44446.18,11,4,PhD,Denver,80.79,0,7,,On Leave,10,3984.76
+276,Sherri,Black,Female,46,Human Resources,HR Assistant,2025-02-10,117410.99,3,5,Master's,San Francisco,90.84,0,23,332.0,Terminated,67,10687.25
+277,Amanda,Nguyen,Male,50,Sales,Sales Manager,2021-11-17,84642.64,16,3,Bachelor's,San Francisco,87.17,0,19,229.0,Terminated,1,10353.19
+278,Anthony,Jenkins,Female,52,Sales,Sales Executive,2025-06-22,79844.52,5,1,PhD,Austin,91.53,0,10,,Terminated,184,8957.92
+279,Rhonda,Walton,Male,58,IT,IT Manager,2024-01-14,66803.73,0,2,High School,Chicago,89.34,0,20,,On Leave,131,4954.79
+280,David,Johnson,Male,32,IT,IT Manager,2022-04-10,110138.5,18,3,PhD,Chicago,98.68,1,19,614.0,Terminated,120,9085.22
+281,Nathan,Alexander,Male,46,IT,IT Manager,2015-05-01,58449.39,8,3,High School,New York,98.06,1,2,,Active,58,8152.52
+282,Joseph,Smith,Female,27,Customer Support,Support Agent,2012-07-24,92345.61,5,5,Bachelor's,New York,90.0,0,17,,Terminated,128,16775.77
+283,Thomas,Brown,Male,44,Customer Support,Support Manager,2019-01-09,116740.71,1,4,PhD,Chicago,80.74,1,25,,On Leave,196,19886.2
+284,Cynthia,Johnson,Male,58,R&D,Research Analyst,2016-03-03,105812.16,9,5,High School,Los Angeles,85.22,0,22,86.0,Terminated,190,8290.72
+285,Catherine,Green,Female,58,Marketing,Marketing Manager,2011-07-24,79849.68,13,2,Master's,Los Angeles,85.65,1,8,,Active,137,11003.73
+286,Victor,Fowler,Male,47,Customer Support,Support Manager,2017-01-12,59659.16,15,5,High School,Austin,88.87,1,9,,On Leave,147,5253.98
+287,Tyler,Calhoun,Male,22,IT,Software Engineer,2023-01-01,126468.92,12,5,Bachelor's,Denver,90.35,1,1,,Terminated,41,19309.86
+288,Shannon,Sullivan,Male,60,Customer Support,Support Agent,2015-07-05,80791.86,7,5,Bachelor's,Denver,75.94,1,12,,On Leave,157,8697.15
+289,Joshua,Charles,Female,24,Human Resources,HR Assistant,2023-08-31,71460.72,16,1,Bachelor's,New York,94.6,0,22,954.0,Active,59,9045.65
+290,Jennifer,Thomas,Female,27,Finance,Financial Analyst,2011-06-24,113662.83,11,4,Master's,Boston,89.65,0,23,,On Leave,180,14510.36
+291,Isaac,Mason,Male,43,Marketing,Marketing Manager,2021-04-29,103239.74,12,3,Master's,Seattle,79.38,1,17,466.0,Terminated,18,13001.57
+292,Marvin,Mcbride,Male,38,R&D,Product Designer,2019-05-21,123322.06,7,4,PhD,Austin,92.04,0,0,,Terminated,123,22750.28
+293,Richard,West,Male,43,Marketing,SEO Analyst,2016-05-13,96815.46,11,1,Bachelor's,Denver,92.52,1,9,,On Leave,23,8665.22
+294,Caroline,Bell,Male,35,Operations,Operations Coordinator,2010-11-18,144182.99,5,2,Bachelor's,Austin,87.47,1,23,276.0,Terminated,61,11527.43
+295,Kathleen,Cook,Female,45,Operations,Operations Coordinator,2020-03-12,141220.69,3,4,PhD,Seattle,90.35,1,17,,On Leave,10,23250.1
+296,Brandi,Parsons,Female,54,IT,IT Manager,2017-10-22,122518.63,7,2,PhD,Chicago,76.35,0,15,,On Leave,138,20814.75
+297,Keith,Cabrera,Male,38,Finance,Finance Manager,2023-08-12,115813.16,10,1,Master's,Austin,91.85,1,3,,On Leave,83,12382.07
+298,Tiffany,Williams,Male,50,R&D,R&D Manager,2025-01-15,94864.7,5,2,Bachelor's,Austin,85.48,1,11,,Active,102,15446.76
+299,Anna,Compton,Female,55,Sales,Sales Executive,2024-09-04,61566.95,12,2,PhD,Seattle,86.82,0,13,,On Leave,127,3168.32
+300,Michael,Ford,Female,38,Human Resources,HR Manager,2011-08-31,46604.0,5,3,Master's,Seattle,86.91,1,14,,On Leave,190,6733.31
+301,Stephen,Martinez,Female,42,Human Resources,HR Manager,2023-05-10,61885.39,19,5,PhD,San Francisco,91.25,1,24,,On Leave,72,8092.49
+302,Matthew,Vaughn,Female,32,Sales,Sales Manager,2012-11-21,135508.34,4,3,Bachelor's,Boston,85.55,0,12,,On Leave,18,19221.39
+303,Mark,Wright,Male,48,Sales,Business Development Rep,2020-09-03,83500.09,20,4,Bachelor's,New York,94.52,1,23,,Active,150,15933.11
+304,Brooke,Valdez,Female,23,Marketing,Marketing Manager,2022-08-22,63162.86,2,4,High School,San Francisco,77.58,0,15,,On Leave,140,3762.54
+305,Ronald,Brown,Male,23,IT,Software Engineer,2022-07-05,74030.77,12,2,Master's,Boston,93.44,0,4,,On Leave,33,8622.66
+306,Ashley,Gordon,Female,55,R&D,R&D Manager,2022-05-18,54862.64,14,5,Master's,Denver,79.43,1,20,562.0,Terminated,191,7660.89
+307,Monica,Li,Female,40,Marketing,Marketing Specialist,2022-08-02,85342.42,11,2,High School,Denver,82.59,1,24,,On Leave,34,4268.3
+308,Christina,Davidson,Male,37,Sales,Sales Executive,2017-03-09,105670.41,9,1,PhD,Los Angeles,88.71,1,17,,Active,111,8272.48
+309,Tammy,Owens,Male,48,Sales,Sales Executive,2016-12-06,96827.11,7,5,High School,Chicago,95.19,1,9,,Active,166,14785.12
+310,James,Gutierrez,Male,33,Sales,Sales Executive,2025-06-29,89804.4,19,5,Master's,Seattle,87.3,0,4,,Active,12,8809.5
+311,Rebecca,Wells,Male,51,R&D,R&D Manager,2011-09-12,56575.21,2,4,Master's,San Francisco,80.43,1,25,,Active,127,6395.06
+312,Sean,Gomez,Female,37,Human Resources,HR Manager,2018-12-26,99751.11,2,2,PhD,Austin,79.8,0,12,,Terminated,3,17579.23
+313,Ronald,Wilson,Male,24,Human Resources,HR Assistant,2016-06-26,97325.3,3,2,Master's,Denver,86.82,0,9,,Terminated,82,14814.5
+314,Jo,Santana,Female,32,Sales,Sales Executive,2021-10-27,135002.34,1,2,High School,Los Angeles,99.33,0,13,,Active,83,11528.51
+315,Justin,Rodriguez,Male,43,Human Resources,HR Assistant,2012-06-17,115724.72,15,2,High School,Boston,84.28,0,5,,Terminated,127,7339.49
+316,Danny,Watts,Male,50,IT,IT Manager,2019-06-26,53841.02,3,2,High School,Los Angeles,82.92,1,20,,On Leave,193,7201.37
+317,Gregory,Stone,Female,42,IT,System Administrator,2019-07-20,101492.73,14,5,Master's,Chicago,92.43,1,5,497.0,Active,139,7963.77
+318,Evan,Mckenzie,Female,23,IT,System Administrator,2014-08-26,99576.65,8,4,Bachelor's,Boston,75.02,0,12,,Terminated,187,14508.71
+319,Tony,Crawford,Male,42,Finance,Finance Manager,2014-02-25,60885.64,12,4,High School,San Francisco,94.14,1,9,839.0,Active,82,4451.94
+320,Rodney,Olson,Female,55,IT,Software Engineer,2014-01-18,93390.73,3,1,High School,Boston,75.8,1,12,207.0,Active,168,13659.59
+321,John,Douglas,Male,45,Finance,Accountant,2020-03-27,94054.61,20,1,Master's,New York,86.7,1,11,214.0,Terminated,142,13716.69
+322,John,Ramirez,Male,55,Finance,Financial Analyst,2015-06-20,145664.54,6,1,Bachelor's,Los Angeles,77.53,0,12,,Terminated,48,12330.9
+323,Kathy,Davis,Female,54,Finance,Finance Manager,2012-11-09,117280.55,14,4,Bachelor's,Denver,97.07,1,5,,On Leave,140,8798.55
+324,Michael,Haley,Female,46,Operations,Logistics Officer,2015-06-27,85357.76,11,4,Master's,Denver,95.65,0,7,333.0,On Leave,144,8409.24
+325,Omar,Owen,Female,35,Customer Support,Support Agent,2016-03-10,105533.91,9,5,High School,Seattle,78.38,0,0,,Terminated,76,19370.61
+326,David,Thompson,Female,27,IT,Software Engineer,2017-08-22,57171.78,11,3,Bachelor's,San Francisco,84.18,1,7,,Terminated,65,7851.02
+327,Jason,Wheeler,Male,27,Operations,Operations Manager,2014-11-15,130146.68,18,1,Master's,Boston,89.88,1,23,,On Leave,147,12371.61
+328,Patrick,Booker,Male,42,Customer Support,Support Agent,2024-10-14,133442.6,20,1,Master's,Austin,90.85,0,1,233.0,Active,78,19326.36
+329,Cassandra,Garcia,Male,31,Human Resources,Recruiter,2020-10-06,146814.43,12,5,Master's,San Francisco,89.38,1,13,,On Leave,74,9324.54
+330,Anthony,Preston,Female,53,Human Resources,Recruiter,2012-03-14,83837.97,2,4,Bachelor's,Austin,94.35,0,4,,Active,123,5831.46
+331,Cassandra,Sanford,Female,34,Finance,Financial Analyst,2015-09-22,115321.18,10,5,Master's,New York,77.24,1,13,,On Leave,93,17386.07
+332,Bianca,Finley,Male,31,IT,System Administrator,2024-04-08,108550.04,14,4,High School,New York,76.12,1,6,,Active,175,18749.39
+333,Colin,Frederick,Female,56,IT,System Administrator,2023-09-04,73562.99,3,4,PhD,Chicago,75.57,0,17,,Terminated,54,5984.45
+334,Kendra,Lewis,Female,25,Human Resources,HR Manager,2020-06-08,44783.02,16,2,High School,San Francisco,76.5,1,22,,On Leave,158,3587.32
+335,Lauren,Burke,Male,54,Sales,Business Development Rep,2021-08-21,135071.05,11,1,Master's,Denver,82.31,1,12,676.0,Terminated,59,24651.86
+336,Mary,Watkins,Male,47,Finance,Accountant,2016-01-01,101675.63,14,1,High School,Boston,75.99,1,9,,Terminated,85,19149.64
+337,Steven,Marshall,Female,57,Operations,Operations Manager,2019-10-05,149559.39,7,5,Bachelor's,Chicago,81.9,0,8,,On Leave,99,8869.09
+338,Joshua,Soto,Female,49,Customer Support,Support Manager,2018-03-18,97278.96,12,5,Master's,Denver,96.82,0,13,,Terminated,61,14881.59
+339,Lisa,Gonzalez,Male,49,IT,Software Engineer,2022-10-05,99548.92,18,2,Bachelor's,Boston,96.56,0,22,,Active,134,9591.51
+340,Evan,Martinez,Male,39,Finance,Accountant,2023-02-23,119978.75,4,3,Bachelor's,San Francisco,97.0,1,13,,Active,77,13450.34
+341,Bridget,Baker,Male,44,IT,Software Engineer,2013-06-10,107864.12,19,5,PhD,Chicago,89.18,0,7,,Terminated,59,9129.26
+342,Alyssa,Sandoval,Female,22,R&D,R&D Manager,2017-12-21,133734.24,5,4,PhD,Austin,86.85,1,7,,Terminated,8,9972.29
+343,Lisa,Ward,Female,24,Marketing,Marketing Specialist,2022-09-12,135384.19,14,4,Master's,Los Angeles,92.2,1,7,,Terminated,109,24371.35
+344,Danielle,Griffin,Female,57,Human Resources,Recruiter,2015-02-12,130971.11,14,1,High School,Austin,96.94,0,17,,On Leave,101,11375.92
+345,Julia,Smith,Female,51,R&D,Product Designer,2021-07-19,90748.19,9,4,High School,San Francisco,82.36,0,22,793.0,Active,132,17047.49
+346,Eric,Brown,Female,38,IT,System Administrator,2025-10-08,42740.33,14,4,Bachelor's,San Francisco,89.76,0,6,,Active,116,6705.75
+347,Sharon,Sanders,Female,57,Finance,Finance Manager,2023-02-15,49383.72,11,4,High School,Chicago,93.17,1,19,,On Leave,40,9692.97
+348,Kiara,Hunt,Male,29,IT,Software Engineer,2013-04-24,86153.99,1,3,Bachelor's,New York,93.25,0,9,184.0,Terminated,160,16726.36
+349,Lauren,Davis,Female,51,Sales,Sales Executive,2013-01-12,99785.13,15,1,PhD,San Francisco,90.2,1,6,,Terminated,150,12375.35
+350,Collin,Miller,Male,31,Human Resources,HR Assistant,2019-07-23,109149.9,19,2,Master's,Boston,76.22,0,20,285.0,Active,89,7884.82
+351,Chelsea,Patton,Female,51,Human Resources,HR Assistant,2017-08-08,57746.88,5,3,High School,San Francisco,90.28,0,19,,On Leave,146,8877.26
+352,Alyssa,Parks,Female,43,Operations,Operations Manager,2023-10-06,123428.62,2,5,Bachelor's,Austin,76.62,1,3,840.0,Terminated,177,14888.27
+353,Katie,Rangel,Female,49,Human Resources,HR Assistant,2012-08-22,98184.13,20,1,Master's,Boston,87.09,1,25,,Active,180,15051.44
+354,Eric,Frazier,Male,29,R&D,R&D Manager,2019-05-03,94175.49,15,2,PhD,San Francisco,97.09,0,9,,Terminated,49,7996.28
+355,Melinda,Thornton,Male,38,Marketing,Marketing Manager,2019-04-09,76717.15,1,5,Master's,Seattle,95.15,1,20,424.0,Terminated,51,6279.35
+356,Greg,Villegas,Female,43,Operations,Operations Coordinator,2023-04-08,77549.77,10,5,PhD,New York,90.4,1,5,,Terminated,49,4216.2
+357,Cheyenne,Riley,Female,55,IT,System Administrator,2019-12-02,138126.42,14,5,Master's,New York,97.4,0,13,,Active,190,16488.22
+358,Jeremy,Smith,Male,33,Operations,Operations Manager,2011-12-20,70850.6,4,1,Master's,Boston,83.48,1,17,,Terminated,42,7530.44
+359,Steve,Estrada,Male,33,Human Resources,HR Manager,2011-07-30,136475.36,15,3,Master's,New York,86.3,1,6,,Active,134,26286.38
+360,Luis,Richards,Male,42,Finance,Financial Analyst,2017-03-17,139545.14,15,2,High School,Chicago,79.76,1,23,,Active,134,26310.61
+361,Christopher,Smith,Male,51,Human Resources,HR Manager,2023-07-05,52741.96,16,3,High School,Seattle,98.31,1,19,,Active,22,8072.57
+362,Steven,Koch,Male,31,Sales,Business Development Rep,2013-04-06,61180.02,6,3,Master's,San Francisco,88.31,1,21,329.0,Active,30,10150.87
+363,Jason,Mckee,Female,26,Finance,Accountant,2014-06-23,75033.34,17,2,Master's,Denver,98.58,0,18,,Active,62,12800.72
+364,Marcus,Fox,Female,44,IT,Software Engineer,2014-05-04,51651.96,1,1,Master's,Austin,77.15,1,22,,Terminated,152,5619.09
+365,Brittney,King,Male,52,Finance,Financial Analyst,2022-12-28,129413.61,2,4,Bachelor's,Chicago,77.43,1,20,,Terminated,181,12496.02
+366,Matthew,Pope,Female,52,Sales,Sales Manager,2018-04-03,126765.66,10,3,Bachelor's,Seattle,86.33,1,15,,On Leave,28,6913.75
+367,Charles,Herrera,Male,37,IT,IT Manager,2011-07-21,75845.67,3,1,Bachelor's,Denver,94.81,1,12,,On Leave,151,9853.25
+368,Sandy,Kelly,Female,26,Finance,Financial Analyst,2018-09-17,87426.33,18,4,High School,Denver,89.18,0,22,,On Leave,60,8858.92
+369,Megan,Ryan,Male,25,Finance,Financial Analyst,2016-04-09,47656.84,12,1,Bachelor's,Chicago,92.14,1,12,,Terminated,83,6646.26
+370,Tom,Thompson,Female,41,Human Resources,HR Assistant,2012-06-24,98438.14,14,4,PhD,Boston,90.39,1,6,,Active,174,11524.54
+371,Joan,Stafford,Female,29,Human Resources,Recruiter,2019-11-28,133775.57,4,1,High School,Austin,84.23,1,1,414.0,On Leave,0,17702.89
+372,Ashley,Cook,Female,57,Customer Support,Support Manager,2015-01-09,84663.59,12,4,Master's,Los Angeles,88.63,0,15,,Active,35,12646.47
+373,Melissa,Ruiz,Male,27,Sales,Business Development Rep,2024-04-20,47892.06,0,1,PhD,Denver,78.6,0,21,,Terminated,111,8751.47
+374,David,Hubbard,Female,58,Customer Support,Support Manager,2017-08-02,86653.72,16,4,Bachelor's,Seattle,84.62,0,13,,On Leave,154,7266.88
+375,Jason,Schmitt,Male,51,Operations,Operations Coordinator,2017-10-28,117537.08,15,1,High School,Austin,89.51,1,2,582.0,On Leave,36,22832.83
+376,Anita,Shelton,Female,54,Finance,Finance Manager,2015-08-31,74374.97,18,1,Master's,Los Angeles,97.59,1,0,,On Leave,120,9687.71
+377,Julie,Alexander,Male,40,Sales,Sales Manager,2018-11-23,122436.78,19,5,Master's,Denver,81.51,0,18,,Active,43,17679.26
+378,Andrea,Wright,Male,60,IT,IT Manager,2015-09-11,67725.61,8,5,Bachelor's,Denver,82.02,0,0,,On Leave,189,12101.13
+379,Alison,Patterson,Female,53,IT,System Administrator,2013-09-12,93341.04,7,5,PhD,Austin,96.55,0,2,,Terminated,37,9467.32
+380,Sherry,Watson,Female,51,R&D,R&D Manager,2020-08-17,103553.31,6,3,PhD,Seattle,76.36,0,3,,On Leave,13,9284.52
+381,Steven,Jefferson,Male,42,Marketing,SEO Analyst,2018-05-27,92204.85,12,2,High School,Boston,88.26,1,9,,On Leave,114,10622.93
+382,Debbie,Stanley,Female,55,Sales,Sales Manager,2015-08-21,68087.83,3,5,Bachelor's,Boston,84.78,0,23,,Terminated,61,11300.72
+383,Douglas,Dunn,Male,38,Human Resources,Recruiter,2017-03-24,41315.76,2,1,High School,New York,88.13,1,11,,Terminated,56,6314.08
+384,Michael,Mccann,Male,58,Finance,Accountant,2012-02-06,144553.79,6,1,High School,Chicago,92.7,1,19,673.0,On Leave,33,9829.16
+385,Jacob,Davies,Male,38,Sales,Sales Manager,2014-10-14,110265.86,2,3,High School,Seattle,94.23,1,21,,Active,197,16962.55
+386,Samantha,Robinson,Female,33,Customer Support,Customer Service Rep,2013-11-05,68406.25,1,3,High School,Chicago,79.45,1,6,,Terminated,156,4132.41
+387,Steven,Jenkins,Male,50,Customer Support,Support Agent,2014-10-10,140387.01,3,3,PhD,Chicago,77.58,1,18,,Terminated,186,8554.89
+388,Susan,Joseph,Female,52,Human Resources,HR Assistant,2016-05-26,56676.82,8,3,PhD,San Francisco,97.62,1,16,,Terminated,181,7719.16
+389,Jessica,Nelson,Male,25,Marketing,Marketing Specialist,2017-04-12,53332.4,15,5,Master's,Boston,98.38,1,21,,Active,77,5537.92
+390,Scott,Meyer,Male,53,R&D,Product Designer,2025-03-16,100992.3,5,4,PhD,Austin,91.52,1,12,,Active,27,9577.16
+391,Tina,Spence,Male,23,Human Resources,HR Assistant,2015-10-09,66233.36,18,4,Master's,New York,76.57,1,9,,On Leave,127,8682.05
+392,George,Hernandez,Male,26,Human Resources,HR Manager,2013-09-30,113404.81,20,4,Bachelor's,Denver,98.5,0,17,,Terminated,38,20472.97
+393,Matthew,Brown,Male,32,Human Resources,HR Manager,2024-10-13,66695.08,1,2,High School,San Francisco,75.36,1,9,634.0,On Leave,24,9664.06
+394,Lawrence,Harris,Male,42,Marketing,Marketing Specialist,2016-12-07,77107.74,13,4,High School,Chicago,83.11,0,18,,On Leave,139,15142.26
+395,Jennifer,Cummings,Female,28,Finance,Accountant,2016-01-15,58485.59,13,3,Bachelor's,New York,88.84,0,18,,On Leave,10,6772.58
+396,Christopher,Browning,Male,30,Finance,Accountant,2024-11-01,117741.54,2,5,Bachelor's,Seattle,97.17,1,25,,Terminated,197,13238.07
+397,Nancy,Kennedy,Female,44,R&D,Product Designer,2012-12-26,107159.18,5,1,High School,Austin,89.91,1,19,,Active,22,16886.12
+398,Rebecca,Russell,Male,39,Finance,Finance Manager,2022-05-13,134900.42,11,5,Bachelor's,San Francisco,87.69,0,20,634.0,Active,168,16138.46
+399,Jerry,Davis,Male,24,R&D,Product Designer,2018-09-21,45943.04,1,3,High School,Chicago,82.13,1,10,,Active,157,5292.67
+400,Cameron,Garcia,Male,36,Human Resources,HR Manager,2014-05-11,138458.71,2,4,Master's,Austin,89.82,1,6,,Active,191,13692.99
+401,Jacqueline,Perez,Female,35,Marketing,Marketing Manager,2011-11-29,81308.56,6,2,Bachelor's,Los Angeles,76.84,0,1,,On Leave,111,11201.38
+402,Gregory,Campbell,Male,39,IT,System Administrator,2023-12-16,79444.92,20,3,High School,Denver,80.06,0,22,,On Leave,145,5488.2
+403,Bryan,Shepherd,Female,27,Customer Support,Support Agent,2014-11-25,137504.99,7,5,PhD,Austin,78.92,0,19,,Terminated,43,23263.76
+404,Robert,Steele,Male,58,R&D,Product Designer,2021-08-26,120979.67,13,2,PhD,New York,81.2,0,7,,Active,151,13929.27
+405,Samantha,Nguyen,Male,37,R&D,R&D Manager,2025-07-13,86826.74,1,4,High School,Los Angeles,86.98,1,3,,Active,115,14734.73
+406,Jacqueline,Myers,Female,51,IT,System Administrator,2025-05-07,149884.68,20,1,Bachelor's,Los Angeles,86.99,0,22,,Active,117,14347.78
+407,Andrea,Miller,Female,49,Operations,Logistics Officer,2015-06-10,40150.0,20,1,Bachelor's,San Francisco,84.62,1,16,,Terminated,8,6167.55
+408,Luis,Davis,Male,33,Operations,Logistics Officer,2025-04-18,137677.57,11,1,Bachelor's,Chicago,84.57,1,1,528.0,On Leave,93,16494.18
+409,Justin,Landry,Female,42,Marketing,Marketing Manager,2023-03-01,121111.81,15,5,Master's,Los Angeles,96.78,0,24,,On Leave,190,18823.99
+410,Eric,Suarez,Female,50,Human Resources,HR Assistant,2019-04-21,93484.96,14,5,High School,Austin,95.74,1,17,,On Leave,173,11267.24
+411,Neil,Butler,Male,31,Finance,Accountant,2014-02-09,71721.0,5,1,High School,Seattle,77.73,1,22,,On Leave,37,6554.68
+412,Martha,Fischer,Female,48,IT,System Administrator,2021-07-19,121148.02,14,1,Master's,Denver,82.29,1,25,,Terminated,59,7201.33
+413,Hannah,Copeland,Male,25,R&D,Product Designer,2022-05-26,138811.01,4,3,Master's,Seattle,79.29,1,15,,On Leave,95,12354.34
+414,Phillip,Weeks,Male,37,IT,IT Manager,2021-10-01,71377.12,17,2,High School,Boston,95.98,0,21,729.0,Terminated,39,10987.0
+415,Andrew,Lester,Male,56,IT,System Administrator,2015-06-24,62567.09,5,1,Master's,San Francisco,91.64,1,4,,Active,95,12307.16
+416,Dale,Perkins,Female,52,Customer Support,Customer Service Rep,2016-04-28,142059.24,14,2,Bachelor's,Denver,75.11,1,16,,On Leave,84,22839.47
+417,Peter,Brown,Male,44,Finance,Finance Manager,2016-11-16,55336.56,1,5,Master's,New York,77.92,1,19,,Terminated,56,2972.64
+418,Mary,White,Female,34,Marketing,Marketing Manager,2024-07-10,61528.72,8,1,Master's,New York,88.46,1,21,,Terminated,22,7187.71
+419,Angela,Cole,Female,35,Operations,Operations Manager,2023-01-21,80659.3,13,3,PhD,Denver,75.3,0,9,,On Leave,114,8206.12
+420,Krystal,Snow,Female,26,IT,IT Manager,2024-02-22,55352.45,13,5,High School,New York,89.95,1,9,435.0,On Leave,121,3960.24
+421,Brendan,Bishop,Female,24,Sales,Sales Manager,2019-02-02,118127.17,14,2,Master's,Denver,79.98,1,9,,Terminated,141,20653.66
+422,Justin,Raymond,Male,48,R&D,Research Analyst,2015-04-16,56942.64,0,3,PhD,Austin,98.9,1,15,,Active,31,9972.73
+423,Jeffrey,Weaver,Female,29,Finance,Financial Analyst,2012-01-19,105878.05,2,3,High School,Seattle,89.53,1,8,,Active,160,14276.19
+424,Shelley,Yang,Male,40,Human Resources,HR Assistant,2024-08-01,79312.4,4,1,Bachelor's,Chicago,81.82,1,11,,Active,12,8956.52
+425,Erin,Berry,Male,31,IT,IT Manager,2015-03-09,130950.42,10,3,Bachelor's,Seattle,81.79,1,11,,On Leave,24,20257.39
+426,Richard,Williams,Female,48,R&D,Product Designer,2024-03-31,51265.96,5,2,High School,San Francisco,87.58,0,25,,Active,143,8958.01
+427,Norman,Hayes,Male,41,Human Resources,HR Manager,2022-10-17,55291.54,11,4,High School,Austin,97.24,0,24,,Active,87,7721.31
+428,Theresa,French,Female,52,IT,IT Manager,2017-07-10,63082.51,4,1,High School,Austin,85.62,0,3,,Active,19,10374.14
+429,Stephen,Wilson,Male,29,Human Resources,Recruiter,2020-04-26,91599.06,1,3,Bachelor's,Chicago,76.08,0,0,,Terminated,193,8724.52
+430,Lorraine,Hunter,Male,54,Operations,Operations Coordinator,2018-08-11,144367.08,8,3,High School,New York,83.81,0,24,,Terminated,186,25736.42
+431,Donald,Meyer,Male,45,Marketing,Marketing Manager,2020-02-14,58895.08,9,5,PhD,San Francisco,75.11,1,6,,Active,129,9352.68
+432,Michael,Ramirez,Female,53,Operations,Operations Manager,2020-07-15,65030.96,16,1,Master's,New York,94.04,0,14,,Active,28,6317.24
+433,Anna,Williams,Female,40,Operations,Operations Manager,2022-03-04,90264.03,9,3,Bachelor's,San Francisco,92.18,1,7,,On Leave,141,15901.23
+434,Eileen,Hanson,Female,47,Operations,Operations Coordinator,2017-10-06,113930.5,15,4,High School,Chicago,85.95,0,2,,Active,30,16950.83
+435,Daniel,Wells,Female,59,Operations,Operations Coordinator,2015-05-29,132843.25,19,4,PhD,Boston,78.07,1,23,,On Leave,127,23342.73
+436,Glenda,Hicks,Male,23,Customer Support,Customer Service Rep,2022-06-07,124479.95,4,1,High School,San Francisco,78.05,0,7,,On Leave,160,15360.98
+437,Justin,Cole,Male,51,Human Resources,HR Assistant,2013-10-03,56801.03,10,5,Master's,Denver,90.58,1,21,,On Leave,192,9316.83
+438,James,Perez,Female,42,Sales,Business Development Rep,2022-01-23,100128.2,17,1,PhD,Denver,99.77,1,3,,Active,98,18225.22
+439,Michael,Harris,Female,29,Human Resources,HR Assistant,2018-07-10,137317.03,9,2,PhD,Denver,87.29,1,22,,Terminated,99,9635.98
+440,Don,Coleman,Male,23,IT,IT Manager,2017-02-23,94416.02,8,4,Bachelor's,Boston,90.42,0,9,,On Leave,82,9716.78
+441,Jessica,James,Male,41,Human Resources,Recruiter,2017-11-21,87096.3,3,3,High School,Seattle,85.3,0,7,,Active,63,5092.29
+442,Aaron,Harris,Male,59,Operations,Operations Coordinator,2022-08-28,44111.54,10,4,Master's,Los Angeles,89.2,1,8,,Terminated,5,8169.96
+443,Jeremiah,Taylor,Female,32,Customer Support,Customer Service Rep,2023-05-18,51006.24,15,2,Master's,Los Angeles,83.4,1,24,,Active,170,6396.96
+444,Zachary,Cox,Male,36,R&D,R&D Manager,2014-02-13,132441.85,2,5,High School,Boston,80.35,1,9,,On Leave,146,11889.74
+445,Wendy,Smith,Female,49,Finance,Finance Manager,2013-11-30,86981.65,15,3,Bachelor's,Los Angeles,94.89,1,9,,On Leave,129,12849.84
+446,Brett,Hawkins,Female,35,Sales,Business Development Rep,2012-12-10,59866.09,17,1,Master's,Los Angeles,90.7,1,5,,Terminated,147,7628.95
+447,Gloria,Summers,Male,26,Human Resources,Recruiter,2012-07-19,56251.81,14,2,PhD,Seattle,93.66,1,13,,On Leave,105,9271.96
+448,Cynthia,Williams,Female,53,IT,System Administrator,2018-12-28,84645.25,7,1,PhD,New York,78.75,1,25,,Active,79,4584.02
+449,Nicholas,Harris,Male,23,IT,System Administrator,2019-01-16,126863.68,8,3,High School,Boston,91.47,1,1,,Terminated,184,9692.1
+450,Mark,Johnson,Male,58,Sales,Sales Executive,2017-01-21,113883.93,11,1,Master's,Denver,84.92,0,4,417.0,Active,60,20040.33
+451,Alicia,Ramos,Male,35,Marketing,Marketing Manager,2023-04-12,76221.45,10,5,High School,Chicago,93.43,1,23,,Active,60,13024.43
+452,Gary,Bryant,Male,52,Sales,Sales Manager,2012-08-12,46151.79,18,5,Master's,Chicago,84.37,1,10,,On Leave,139,8875.3
+453,Angelica,Morales,Female,38,R&D,R&D Manager,2024-12-07,42318.16,9,5,Master's,Boston,75.87,0,25,,Terminated,13,6809.73
+454,Kristen,Campbell,Male,41,Finance,Finance Manager,2011-04-19,82731.81,14,4,Bachelor's,Denver,98.19,0,9,879.0,Terminated,23,15527.85
+455,Kristin,Turner,Female,43,Operations,Logistics Officer,2013-04-24,70144.02,1,1,High School,Chicago,95.58,1,15,,Terminated,188,13402.72
+456,Zachary,Little,Female,33,Sales,Business Development Rep,2018-09-19,106232.75,13,5,Bachelor's,New York,93.44,0,0,,On Leave,195,12534.32
+457,Morgan,Cooper,Female,60,Marketing,Marketing Manager,2012-06-04,49045.53,18,2,Master's,Denver,81.24,0,24,,On Leave,166,7701.84
+458,Tyler,Sanders,Male,58,IT,System Administrator,2019-02-07,130944.55,18,3,High School,New York,79.97,1,5,,Terminated,100,14688.63
+459,Kimberly,Leon,Female,27,Marketing,Marketing Specialist,2020-07-10,117138.73,8,2,Bachelor's,San Francisco,76.24,0,19,204.0,Active,66,16715.77
+460,Kyle,Torres,Female,53,Customer Support,Customer Service Rep,2019-08-18,53036.36,15,2,Bachelor's,Los Angeles,79.76,1,25,,Active,68,9508.92
+461,Howard,Cruz,Female,37,Marketing,SEO Analyst,2022-12-04,86016.41,6,4,PhD,San Francisco,94.81,1,8,,Active,60,4672.06
+462,Stacy,Mcmahon,Male,57,R&D,Research Analyst,2014-10-26,115553.77,12,4,High School,Boston,92.71,0,8,998.0,Active,18,18536.63
+463,Judy,Brennan,Male,45,R&D,Product Designer,2010-12-02,118052.26,19,1,High School,Chicago,75.13,1,12,962.0,On Leave,77,14836.96
+464,Joseph,Reed,Female,29,IT,IT Manager,2018-06-05,136568.64,10,2,High School,Chicago,77.24,1,13,,On Leave,36,21378.23
+465,Jessica,Anderson,Male,49,Sales,Business Development Rep,2015-12-21,71121.81,13,3,Master's,Denver,90.32,1,8,,Active,132,11680.66
+466,Michael,Wheeler,Male,53,R&D,Research Analyst,2022-03-23,65284.66,1,1,PhD,Boston,86.76,0,14,,Terminated,111,4865.88
+467,Heather,Holt,Male,58,R&D,Product Designer,2019-03-23,53601.97,4,1,High School,Chicago,80.09,1,5,,On Leave,191,4964.48
+468,Jimmy,Sparks,Male,59,Finance,Accountant,2025-04-01,137610.45,3,1,Master's,Chicago,82.11,1,3,,Active,100,27136.8
+469,Jennifer,Adams,Male,42,Finance,Financial Analyst,2019-11-05,89946.11,15,3,Bachelor's,New York,89.86,1,1,,Terminated,167,4575.63
+470,Kayla,Bender,Male,27,Sales,Sales Manager,2013-03-21,100187.18,2,5,Bachelor's,Chicago,84.53,1,5,,On Leave,61,11003.44
+471,Anne,Burnett,Male,44,Customer Support,Customer Service Rep,2014-07-04,56954.81,20,3,Master's,Austin,87.27,0,25,,On Leave,79,6541.47
+472,Amanda,Allen,Male,49,R&D,Product Designer,2013-09-25,106037.48,18,1,High School,Boston,93.91,1,19,,On Leave,47,18201.24
+473,Michael,Harrison,Female,27,Marketing,Marketing Manager,2014-08-14,142373.44,4,5,Master's,Chicago,90.74,1,9,,Active,119,18323.7
+474,Lucas,Mendoza,Male,48,Sales,Sales Executive,2024-10-03,102538.93,9,5,PhD,Seattle,76.91,1,3,,On Leave,130,5820.54
+475,Lee,Burns,Female,48,Sales,Business Development Rep,2017-08-27,41789.56,16,4,Master's,Denver,79.49,0,12,,Terminated,11,3231.64
+476,Edward,Brown,Male,49,R&D,R&D Manager,2012-07-09,146339.16,10,2,High School,Los Angeles,80.28,0,19,,Active,66,9033.97
+477,Justin,Shannon,Male,41,Human Resources,HR Assistant,2017-05-28,116098.69,14,5,Bachelor's,Chicago,93.15,1,19,,Active,92,11078.14
+478,Ryan,Torres,Female,27,Marketing,Marketing Specialist,2018-01-08,134491.32,6,2,PhD,Chicago,87.03,0,7,,On Leave,111,9652.86
+479,Rebecca,Hampton,Female,34,Customer Support,Support Agent,2020-03-21,121265.93,4,4,PhD,New York,99.1,0,14,,On Leave,149,14639.63
+480,Jonathan,Moreno,Female,53,Human Resources,HR Assistant,2019-07-17,147743.56,13,4,PhD,Denver,93.43,0,17,,Active,74,20591.9
+481,Jason,Vargas,Female,44,Human Resources,Recruiter,2024-07-11,74743.52,18,1,PhD,New York,81.7,1,15,,Active,29,11005.61
+482,Christopher,Anderson,Female,30,Sales,Business Development Rep,2016-09-03,88192.18,11,5,PhD,Los Angeles,80.49,1,10,,Terminated,154,16435.54
+483,Mary,Owens,Male,34,Operations,Operations Manager,2019-03-12,108402.66,5,3,PhD,San Francisco,92.27,0,15,,On Leave,33,6821.65
+484,Travis,Evans,Male,54,R&D,Product Designer,2019-06-30,45175.43,17,1,High School,Boston,83.97,0,21,,On Leave,40,4026.09
+485,Amy,Good,Male,31,Finance,Finance Manager,2019-08-01,64650.52,17,3,High School,Denver,99.84,1,24,,On Leave,11,10844.02
+486,Jonathan,Bradley,Female,35,Finance,Accountant,2019-04-21,126037.19,19,1,Bachelor's,Seattle,95.59,0,3,,Terminated,42,7095.32
+487,Austin,Bryant,Male,22,R&D,R&D Manager,2017-10-27,56972.53,3,3,PhD,Boston,83.37,1,6,,On Leave,112,4026.01
+488,Robert,Camacho,Female,49,IT,Software Engineer,2013-01-29,79670.77,13,2,PhD,Denver,78.79,0,13,,Terminated,58,12988.41
+489,Robert,Walls,Male,49,Operations,Operations Coordinator,2014-04-02,118938.83,0,5,PhD,New York,98.59,0,10,,Terminated,102,7459.45
+490,Adam,Martinez,Female,42,IT,IT Manager,2018-11-18,147805.18,20,5,High School,Seattle,99.32,1,21,,Terminated,179,16686.58
+491,Glen,Dawson,Male,47,IT,IT Manager,2017-03-26,62564.69,20,5,Master's,San Francisco,90.61,1,14,,Active,178,8929.74
+492,Justin,Edwards,Male,32,Operations,Operations Manager,2016-03-02,97251.67,4,5,High School,Seattle,82.1,1,17,,Active,79,6216.61
+493,Elizabeth,Jones,Male,25,Sales,Business Development Rep,2022-07-22,52148.61,16,1,PhD,Seattle,96.04,0,16,,Terminated,90,4639.32
+494,David,Franklin,Female,44,Human Resources,HR Manager,2025-08-30,128592.63,7,5,Master's,Chicago,89.14,0,20,,Terminated,170,23680.44
+495,Felicia,Williams,Female,49,Customer Support,Support Manager,2018-11-08,76063.17,3,5,High School,San Francisco,79.81,0,14,,Active,25,12686.0
+496,Tanya,Sullivan,Female,59,Customer Support,Support Agent,2010-11-19,48588.0,14,5,PhD,Denver,85.07,1,24,,Terminated,101,6503.27
+497,Anthony,Smith,Female,35,R&D,R&D Manager,2011-03-23,55878.08,5,2,PhD,New York,87.12,0,22,844.0,Terminated,131,6630.32
+498,Christopher,Cunningham,Female,29,IT,IT Manager,2011-02-02,106176.02,3,4,Master's,Boston,77.76,0,9,,On Leave,10,11194.98
+499,Kevin,Farley,Female,33,Sales,Sales Manager,2012-02-20,55635.38,4,5,High School,San Francisco,85.54,0,9,,Terminated,72,10599.82
+500,Robert,Russell,Female,30,Operations,Operations Coordinator,2011-03-05,103036.5,15,5,PhD,Denver,86.31,0,12,428.0,Active,121,10373.04
+501,Curtis,Richardson,Male,39,Operations,Operations Coordinator,2016-04-03,85059.12,19,2,Bachelor's,New York,97.51,1,1,,Terminated,171,8578.19
+502,Alex,Patterson,Male,52,Sales,Business Development Rep,2017-09-27,101528.81,20,2,High School,Chicago,98.88,0,24,,Active,13,13328.21
+503,Michelle,Robinson,Female,43,Sales,Sales Executive,2018-09-03,88865.24,18,5,Bachelor's,Los Angeles,90.17,0,1,,Active,125,9799.14
+504,Samuel,Brown,Female,31,Operations,Operations Manager,2024-06-30,147776.47,3,5,PhD,Chicago,79.2,0,8,,Active,196,10581.55
+505,Mark,Powers,Male,29,Operations,Operations Coordinator,2023-06-07,72782.68,1,1,Bachelor's,Austin,83.0,1,10,,Terminated,66,8146.09
+506,Louis,Hendricks,Male,52,Marketing,SEO Analyst,2012-11-07,82355.35,16,1,PhD,Austin,81.73,0,17,,Active,104,8050.27
+507,Ryan,Hayes,Male,27,Sales,Business Development Rep,2013-11-22,67094.77,3,5,Bachelor's,Boston,91.29,1,18,692.0,Terminated,104,4618.52
+508,Matthew,Gonzalez,Male,32,IT,Software Engineer,2018-10-05,145748.73,13,5,High School,Denver,86.29,1,14,,On Leave,158,7309.32
+509,Angel,Campbell,Male,41,Sales,Business Development Rep,2021-07-06,132668.25,11,2,PhD,San Francisco,89.63,0,1,,Active,41,16789.07
+510,Valerie,Becker,Male,39,Sales,Sales Manager,2016-04-01,145315.89,16,3,Master's,Boston,97.1,1,20,,Active,66,27873.23
+511,Kenneth,Christian,Female,48,R&D,R&D Manager,2023-02-28,111108.76,4,1,PhD,San Francisco,90.22,0,0,,Terminated,172,5626.76
+512,Michael,Hart,Male,33,Finance,Finance Manager,2015-12-21,113947.05,14,3,High School,Denver,99.3,1,19,,On Leave,91,12130.4
+513,Bradley,Elliott,Female,36,Marketing,SEO Analyst,2016-02-19,123426.31,0,3,Master's,New York,79.79,0,20,,On Leave,77,21283.9
+514,Bryan,Forbes,Male,57,R&D,R&D Manager,2023-02-05,40784.89,6,4,Bachelor's,San Francisco,77.77,0,16,,Terminated,126,3735.98
+515,Beth,Roach,Female,56,IT,IT Manager,2023-06-23,142691.97,8,2,PhD,New York,97.03,0,8,,On Leave,49,22735.8
+516,Sharon,Collins,Female,25,Human Resources,HR Manager,2012-12-14,70143.92,13,5,PhD,Denver,86.66,0,24,,On Leave,11,7310.45
+517,Adriana,Allison,Male,37,Human Resources,HR Manager,2023-04-26,136810.83,2,1,Bachelor's,Boston,99.76,0,22,,On Leave,108,11470.79
+518,Jessica,Robinson,Female,28,Finance,Finance Manager,2015-06-12,92796.31,0,1,Bachelor's,Boston,89.81,0,10,,Active,64,13357.52
+519,Lisa,Frazier,Male,27,Operations,Logistics Officer,2012-10-19,125332.44,2,5,High School,Los Angeles,85.96,0,14,,On Leave,148,8065.22
+520,Ryan,Fitzgerald,Female,40,Finance,Accountant,2022-11-27,46026.77,14,5,PhD,San Francisco,90.65,0,21,,Terminated,14,2755.56
+521,Andrea,Simmons,Male,43,Customer Support,Support Agent,2016-05-06,41166.72,19,4,PhD,Boston,86.61,0,19,807.0,Terminated,158,4701.89
+522,Teresa,Peters,Female,44,Marketing,Marketing Specialist,2016-06-27,118462.93,19,5,PhD,Denver,94.74,1,18,,Active,32,9363.57
+523,Jim,Flores,Male,59,Marketing,Marketing Specialist,2011-07-04,54044.88,1,5,Bachelor's,Denver,85.9,1,24,,On Leave,91,10482.61
+524,Tina,Stewart,Male,44,Operations,Operations Manager,2019-08-02,96944.86,0,2,Bachelor's,Austin,76.43,1,17,,Active,13,12221.47
+525,Jennifer,Garcia,Female,48,Operations,Operations Coordinator,2012-04-26,105973.85,14,3,Bachelor's,San Francisco,96.3,1,10,,On Leave,157,14297.41
+526,Katherine,Schwartz,Male,46,Human Resources,HR Manager,2014-12-23,110264.38,0,2,PhD,Chicago,86.66,1,15,,Active,188,9038.46
+527,Meagan,Clark,Male,24,Operations,Operations Coordinator,2012-09-30,101016.08,0,2,Bachelor's,Austin,82.26,1,18,,On Leave,195,7996.49
+528,William,Wilkerson,Male,23,IT,Software Engineer,2013-08-12,77379.92,5,5,PhD,San Francisco,81.15,0,5,737.0,On Leave,67,6143.82
+529,Guy,Forbes,Male,29,Marketing,SEO Analyst,2023-12-31,129043.65,11,2,Bachelor's,Austin,98.53,0,19,,Active,111,25365.5
+530,Stephen,Romero,Female,31,Customer Support,Support Manager,2018-09-22,87249.42,19,2,Bachelor's,New York,98.03,1,18,,Terminated,48,14349.25
+531,Debbie,Hopkins,Female,32,Sales,Sales Executive,2017-08-14,137441.77,18,2,Master's,Denver,93.18,0,25,992.0,Terminated,169,23048.96
+532,Robert,Suarez,Male,59,R&D,Research Analyst,2023-01-02,97802.32,11,4,Bachelor's,Austin,92.89,1,8,,Active,148,12148.89
+533,Christopher,Pruitt,Male,30,R&D,Research Analyst,2013-11-21,86752.51,9,4,Master's,Denver,89.28,0,11,,Terminated,65,16511.16
+534,Nicholas,Abbott,Female,42,Operations,Operations Coordinator,2019-09-14,96348.83,14,3,PhD,New York,85.65,1,13,,Active,94,11574.64
+535,Bryan,Rodriguez,Male,39,R&D,Research Analyst,2020-09-09,79500.22,2,1,High School,San Francisco,82.36,0,17,,Active,164,9958.57
+536,Kenneth,Dunn,Male,34,Operations,Operations Coordinator,2022-02-20,61631.1,10,3,Master's,New York,81.25,1,24,,On Leave,174,9970.78
+537,John,Warren,Male,47,Sales,Sales Manager,2024-12-02,144039.65,12,5,Bachelor's,Austin,93.95,0,20,,On Leave,131,7458.89
+538,Michael,Beltran,Female,35,Marketing,Marketing Manager,2014-09-03,123338.34,17,4,PhD,New York,83.52,1,6,,On Leave,109,7755.68
+539,Debra,Johnson,Female,56,IT,IT Manager,2015-11-11,94978.02,0,3,Master's,New York,83.5,1,21,313.0,Terminated,192,10720.37
+540,James,Rivera,Male,47,Human Resources,HR Assistant,2022-10-14,102501.0,10,5,PhD,Austin,97.84,0,12,,On Leave,97,13948.52
+541,Christina,Jones,Female,60,Finance,Financial Analyst,2020-08-22,110290.36,14,3,High School,Chicago,77.33,0,17,,Active,45,7240.23
+542,Rachel,Copeland,Female,42,Finance,Financial Analyst,2021-11-23,72021.61,7,5,PhD,Chicago,76.75,0,16,,Active,2,4221.76
+543,Melissa,Dyer,Female,32,IT,IT Manager,2018-09-29,82789.22,2,2,Bachelor's,Denver,78.25,1,13,,On Leave,181,6693.64
+544,Leslie,Torres,Male,51,Marketing,Marketing Specialist,2023-06-20,130704.09,2,5,High School,Seattle,95.19,1,18,457.0,Terminated,125,16844.94
+545,Stephanie,Sanders,Female,51,R&D,Product Designer,2025-01-28,83019.94,9,2,Bachelor's,San Francisco,85.38,1,19,,On Leave,187,6387.28
+546,Mary,Macias,Female,53,Human Resources,HR Assistant,2012-07-11,137081.14,8,5,High School,Boston,82.3,0,22,162.0,Active,185,25695.1
+547,Darrell,Love,Female,51,Finance,Finance Manager,2014-10-10,85110.57,10,2,Master's,Los Angeles,81.32,0,14,,Active,6,10716.25
+548,Michael,White,Male,27,Customer Support,Support Agent,2012-05-26,118000.96,3,2,PhD,Chicago,83.18,0,15,,On Leave,118,19151.72
+549,Julia,Bennett,Female,22,Sales,Sales Executive,2018-06-12,106768.74,0,2,Bachelor's,Denver,82.35,0,12,,On Leave,43,13901.08
+550,Brian,Woods,Female,46,IT,Software Engineer,2025-07-10,63778.31,17,1,PhD,New York,95.91,0,20,,Terminated,169,10952.44
+551,Ashley,Nolan,Female,22,Human Resources,HR Assistant,2013-10-24,142170.26,6,3,Bachelor's,San Francisco,97.72,0,0,,Active,107,11373.32
+552,Linda,Bray,Female,35,Finance,Finance Manager,2015-08-25,44841.38,5,5,PhD,San Francisco,77.69,0,17,,Active,160,4442.49
+553,Jason,Sullivan,Male,45,Marketing,Marketing Specialist,2012-01-02,41649.4,5,3,High School,Austin,75.3,1,7,,On Leave,16,3411.72
+554,Jesse,Campbell,Female,30,Sales,Business Development Rep,2022-05-01,118378.42,3,5,Bachelor's,Boston,79.29,1,19,,Terminated,83,22948.27
+555,Kyle,Roberts,Male,36,R&D,Research Analyst,2015-11-11,140331.36,19,4,High School,Seattle,84.56,0,7,,Active,128,20500.84
+556,Christina,Daniel,Female,37,Customer Support,Support Agent,2016-08-16,55131.1,1,4,Master's,Chicago,82.42,0,6,,On Leave,164,4010.82
+557,Allison,Parrish,Male,43,Operations,Logistics Officer,2011-11-08,97296.01,1,4,Bachelor's,New York,91.2,1,0,,Terminated,58,9074.63
+558,Thomas,Park,Male,53,Marketing,Marketing Manager,2016-08-29,106886.95,7,4,Bachelor's,New York,88.04,0,20,,Terminated,1,8287.14
+559,Amy,Price,Male,32,IT,Software Engineer,2021-04-16,105189.37,5,2,Bachelor's,Los Angeles,80.91,1,23,,Active,119,6492.78
+560,Gloria,Kirby,Male,46,Marketing,SEO Analyst,2012-03-28,146449.84,14,2,PhD,Denver,81.8,1,2,,On Leave,92,24485.44
+561,Alejandra,Bailey,Male,57,Customer Support,Support Agent,2011-01-21,42179.22,15,4,Master's,Los Angeles,85.68,0,9,,On Leave,152,2635.57
+562,Laura,Silva,Male,22,Sales,Sales Manager,2022-05-21,106662.79,17,1,Master's,Denver,83.33,0,6,,On Leave,39,16770.54
+563,Kyle,Lewis,Female,34,Customer Support,Customer Service Rep,2022-04-16,93850.62,12,5,Master's,Boston,76.78,0,3,383.0,Terminated,98,17151.19
+564,Kyle,King,Female,31,R&D,R&D Manager,2025-06-30,111599.7,1,4,PhD,Chicago,93.39,0,1,,On Leave,92,9636.96
+565,Craig,Carter,Male,55,Marketing,Marketing Manager,2012-02-28,41357.11,5,1,PhD,Chicago,91.11,0,12,,On Leave,180,7755.8
+566,Gregory,Burns,Female,28,Sales,Business Development Rep,2014-03-28,112433.47,17,4,Bachelor's,Seattle,89.65,0,24,,Terminated,186,17999.48
+567,Sarah,Hill,Female,55,Marketing,Marketing Manager,2022-12-27,40706.23,9,2,Master's,Los Angeles,95.41,1,2,,Active,198,2044.95
+568,Sierra,Lopez,Male,34,IT,System Administrator,2014-12-14,61782.26,4,2,Bachelor's,Austin,87.57,0,18,,On Leave,54,4110.73
+569,Katherine,Russell,Male,43,Customer Support,Customer Service Rep,2019-02-17,52011.5,19,2,Bachelor's,Denver,77.0,0,3,,On Leave,70,3269.24
+570,Jason,English,Female,53,Finance,Accountant,2017-05-11,113185.45,0,1,Master's,Los Angeles,77.42,1,0,,On Leave,96,14527.37
+571,Andrew,Mcclure,Female,22,Operations,Logistics Officer,2019-11-07,143509.02,7,4,PhD,Chicago,84.46,0,11,323.0,Active,84,8407.65
+572,Carmen,Reyes,Female,22,Finance,Finance Manager,2011-12-21,80527.29,7,5,High School,Boston,92.15,0,16,,Active,105,14533.4
+573,Sarah,Molina,Female,46,Operations,Logistics Officer,2011-05-08,93298.98,19,5,Bachelor's,Chicago,94.85,0,15,,Terminated,168,9539.83
+574,Karen,Dawson,Male,56,Human Resources,HR Assistant,2011-03-01,73148.31,2,5,Bachelor's,Austin,99.68,1,14,,Active,29,8779.29
+575,Gregory,Sullivan,Male,52,Finance,Accountant,2012-01-16,57625.88,0,3,Bachelor's,Denver,97.57,1,7,,Active,184,9505.18
+576,Teresa,Kelley,Female,57,Operations,Operations Coordinator,2017-08-07,47113.37,19,3,Bachelor's,Austin,84.43,1,23,785.0,On Leave,185,7425.84
+577,Katherine,Bailey,Female,30,Finance,Financial Analyst,2018-07-19,77426.16,2,5,PhD,New York,98.43,1,3,,On Leave,146,12519.24
+578,Jamie,Peterson,Female,28,Human Resources,Recruiter,2022-06-13,147783.44,12,3,High School,Denver,94.28,0,25,,On Leave,32,25068.17
+579,Richard,Noble,Female,60,IT,System Administrator,2014-04-21,114797.9,15,2,Master's,San Francisco,90.04,0,21,,On Leave,179,8251.74
+580,Brenda,Marshall,Male,36,R&D,R&D Manager,2018-09-11,72064.46,15,4,Bachelor's,Denver,76.47,0,4,,Terminated,183,12361.33
+581,Alice,Dominguez,Male,47,Customer Support,Customer Service Rep,2017-09-10,149016.95,5,5,Master's,Seattle,84.81,1,15,676.0,Terminated,89,16893.4
+582,Eric,Jones,Male,32,Marketing,Marketing Manager,2021-01-25,54399.08,3,5,PhD,Denver,96.65,1,22,404.0,On Leave,77,3161.59
+583,Ronald,Barker,Female,46,IT,Software Engineer,2011-08-04,120885.08,6,1,Bachelor's,New York,84.06,0,3,,Active,173,21568.46
+584,Tracey,Miller,Male,37,Operations,Operations Manager,2018-01-04,52908.15,1,5,High School,Austin,91.25,1,4,,On Leave,160,7354.7
+585,Lisa,Watkins,Female,51,R&D,Product Designer,2022-01-28,111807.67,5,4,Master's,Denver,94.4,0,21,,On Leave,168,22213.34
+586,Sheri,Anderson,Male,28,Human Resources,HR Assistant,2020-01-31,93814.03,3,5,PhD,Denver,80.62,1,18,,Terminated,122,12948.92
+587,Tiffany,Martin,Male,26,Customer Support,Customer Service Rep,2013-07-31,75775.19,3,5,Bachelor's,San Francisco,79.62,1,0,,Active,100,13028.04
+588,Melissa,Miller,Male,24,IT,Software Engineer,2017-04-21,53534.98,10,2,High School,Seattle,89.38,1,2,,On Leave,143,7917.61
+589,Jamie,Gardner,Female,30,IT,System Administrator,2014-06-05,67317.08,0,1,Master's,Boston,98.66,1,25,674.0,Terminated,75,8610.96
+590,Daniel,Garza,Female,59,Marketing,Marketing Manager,2013-04-09,66081.04,1,2,Master's,Chicago,78.54,0,6,,Terminated,34,11789.7
+591,Spencer,Valdez,Male,31,Customer Support,Support Agent,2017-02-10,81996.05,8,2,High School,Seattle,85.0,1,8,,Terminated,173,5123.78
+592,Shane,Little,Male,23,Marketing,Marketing Manager,2016-09-05,130255.9,20,5,High School,Seattle,79.1,1,10,,Active,111,22564.9
+593,Christopher,Oliver,Male,39,Finance,Finance Manager,2021-10-22,76229.33,2,1,High School,Los Angeles,84.07,0,8,,Active,37,7625.04
+594,Catherine,Meyer,Female,58,Customer Support,Support Agent,2013-02-01,59330.45,3,3,Master's,San Francisco,89.72,1,3,,Active,135,10146.68
+595,Alicia,Robinson,Male,38,IT,System Administrator,2025-07-04,77969.02,5,5,Bachelor's,Chicago,88.79,0,12,399.0,Active,122,14214.0
+596,Matthew,Gardner,Female,33,Customer Support,Support Manager,2025-06-25,141028.58,1,3,Master's,Denver,92.69,1,19,,Terminated,107,12321.21
+597,Tiffany,West,Male,26,Sales,Sales Manager,2016-04-25,73570.62,7,1,High School,Chicago,98.69,0,10,534.0,Terminated,23,8164.66
+598,Daniel,Rose,Female,52,Human Resources,HR Assistant,2022-03-15,142254.79,17,1,High School,Los Angeles,99.05,0,16,,Active,187,16159.79
+599,Phillip,Mendoza,Female,60,Marketing,Marketing Manager,2014-05-21,117285.09,13,3,Bachelor's,Austin,81.11,0,16,,Active,175,18865.01
+600,Eddie,Jenkins,Male,37,Finance,Financial Analyst,2024-06-15,78862.07,16,1,Master's,Seattle,85.57,1,11,,On Leave,28,8427.53
+601,Brian,Hutchinson,Female,51,Sales,Sales Manager,2011-11-17,102572.61,20,2,High School,Boston,98.08,0,20,,Active,131,19423.8
+602,Johnny,Mccann,Male,27,R&D,Product Designer,2019-04-25,40566.99,3,2,PhD,San Francisco,85.05,0,13,,On Leave,125,2082.29
+603,Jason,Weiss,Female,28,Human Resources,HR Assistant,2013-07-21,64870.48,8,4,PhD,Chicago,84.36,1,5,,Active,137,6790.28
+604,Jesus,Ellis,Male,43,Operations,Logistics Officer,2013-06-09,137193.39,11,2,Bachelor's,Austin,77.77,1,4,,On Leave,101,12722.62
+605,Shelley,Olson,Male,30,Sales,Sales Executive,2011-03-03,94512.44,17,2,High School,New York,83.12,1,12,,Active,128,15562.32
+606,Angela,Lee,Female,40,IT,System Administrator,2018-04-26,45724.38,7,3,PhD,San Francisco,85.74,1,0,,On Leave,111,6381.43
+607,Raymond,Cole,Female,34,Marketing,Marketing Manager,2025-01-31,60554.63,16,3,High School,Chicago,94.17,1,22,,Active,63,10877.13
+608,Alexandra,Rice,Female,25,IT,Software Engineer,2024-01-29,44220.31,12,2,PhD,Seattle,98.23,0,19,,Terminated,51,5038.7
+609,Emily,Ramsey,Female,44,Marketing,Marketing Specialist,2015-11-13,46748.47,15,4,Bachelor's,Boston,91.1,1,8,,Active,93,4471.19
+610,Thomas,Harrison,Female,53,IT,Software Engineer,2011-10-01,63317.53,10,4,Master's,Seattle,82.0,1,13,,Active,47,8926.4
+611,Michael,Bright,Female,37,Finance,Finance Manager,2015-03-23,124751.0,17,2,Bachelor's,Los Angeles,83.28,1,11,,Active,190,20109.09
+612,Sandra,Mckinney,Male,28,Finance,Accountant,2022-08-22,53238.98,19,5,Master's,Seattle,99.21,1,6,,Terminated,49,9721.77
+613,Justin,Clark,Female,45,R&D,Research Analyst,2020-10-17,44819.22,4,2,High School,Los Angeles,85.46,1,24,,Active,143,7024.99
+614,Jennifer,Smith,Male,58,R&D,Product Designer,2016-11-12,126997.37,16,2,Bachelor's,Los Angeles,89.98,0,4,,On Leave,74,19621.85
+615,Stephanie,Miller,Male,58,Finance,Accountant,2018-02-14,82256.55,16,4,High School,Denver,85.02,0,5,,Terminated,0,7462.65
+616,David,Morris,Male,39,Sales,Sales Manager,2012-11-22,100736.6,8,2,Master's,New York,80.6,0,9,304.0,Terminated,10,13099.27
+617,Lisa,Crawford,Female,30,Marketing,Marketing Specialist,2011-04-21,111351.01,0,5,Master's,Boston,99.31,1,22,,Active,140,10988.59
+618,Jasmine,Johnson,Female,46,Human Resources,HR Manager,2015-06-06,59440.88,8,1,Bachelor's,Denver,88.43,0,24,,Active,199,11698.82
+619,Bryan,Cole,Female,31,Operations,Operations Manager,2024-03-19,128850.63,20,4,High School,Denver,78.89,1,23,,Active,111,10921.18
+620,Danielle,Oneal,Male,32,R&D,Research Analyst,2025-04-30,60774.59,5,4,PhD,Austin,98.58,1,9,,Active,5,4683.35
+621,Daniel,Estes,Male,60,IT,Software Engineer,2012-05-23,140004.42,14,4,PhD,Los Angeles,77.51,0,23,,Active,192,18062.92
+622,William,Holmes,Male,22,Finance,Accountant,2011-12-20,142814.55,20,2,Master's,San Francisco,81.21,0,4,,Active,160,8931.53
+623,Shane,Matthews,Male,56,IT,System Administrator,2019-01-14,129701.14,14,3,High School,New York,83.29,1,1,,Active,139,9491.14
+624,Angela,Holland,Female,36,Sales,Sales Executive,2023-07-18,55601.85,13,2,High School,Denver,75.6,1,4,,Active,90,6342.52
+625,Samuel,Long,Female,33,Finance,Accountant,2022-02-05,79303.87,9,5,Master's,Chicago,83.34,0,2,,Terminated,11,8253.47
+626,Gabriela,Hubbard,Male,38,Customer Support,Support Agent,2022-01-12,108723.41,9,3,High School,Chicago,83.71,1,15,704.0,Terminated,169,7130.99
+627,Miranda,Johnson,Male,31,IT,System Administrator,2023-08-14,119347.78,14,4,Master's,Chicago,95.37,1,13,,Active,186,7993.27
+628,Pamela,Mcclure,Female,46,Customer Support,Customer Service Rep,2022-10-29,92941.74,13,4,PhD,Denver,90.04,0,4,,Terminated,167,13522.15
+629,Amanda,Turner,Female,45,Marketing,SEO Analyst,2015-08-04,97964.05,13,2,Bachelor's,San Francisco,92.58,0,0,,Active,52,8354.27
+630,Jasmine,Peterson,Male,36,Operations,Operations Manager,2017-04-10,72416.7,4,2,Bachelor's,San Francisco,95.88,0,13,,Terminated,62,9611.51
+631,Rebecca,Myers,Female,31,IT,System Administrator,2012-11-30,80885.27,13,1,Bachelor's,San Francisco,91.57,0,19,,Active,40,4939.3
+632,Sharon,Martin,Female,52,Finance,Accountant,2017-07-18,56468.89,13,2,Master's,Denver,86.74,1,16,,Terminated,178,4010.24
+633,Paul,Aguilar,Female,49,Human Resources,HR Manager,2014-08-13,136927.29,1,1,Master's,Seattle,90.1,1,5,,Terminated,2,10411.54
+634,Matthew,Scott,Male,33,Marketing,SEO Analyst,2016-07-28,97365.11,2,2,PhD,Denver,93.58,1,1,279.0,On Leave,56,10716.04
+635,Justin,Wilkerson,Male,23,Customer Support,Customer Service Rep,2022-02-18,111131.19,11,2,Master's,Chicago,81.75,1,11,,Terminated,154,7296.87
+636,Antonio,Mccoy,Male,27,Finance,Accountant,2025-03-22,123217.36,0,3,PhD,New York,79.69,1,1,,Active,61,9889.29
+637,Patrick,Long,Male,30,Operations,Operations Coordinator,2012-10-20,122684.74,11,4,Master's,Los Angeles,87.51,1,12,9.0,Terminated,185,11921.38
+638,Michael,Nelson,Female,31,Finance,Finance Manager,2024-10-20,42605.38,4,4,High School,San Francisco,86.92,0,1,,Terminated,74,7682.68
+639,Lori,Rollins,Male,50,Marketing,Marketing Specialist,2013-04-11,55494.89,20,2,Master's,Seattle,99.84,1,23,,On Leave,155,6950.35
+640,Maria,Reyes,Male,28,Customer Support,Support Agent,2016-08-03,66302.17,12,5,Bachelor's,Seattle,90.17,1,18,793.0,Terminated,160,12842.89
+641,Charles,Guerra,Male,26,Finance,Financial Analyst,2014-08-31,58668.94,10,3,PhD,Seattle,79.04,0,11,,On Leave,90,5398.57
+642,Jeremiah,Hall,Female,30,Sales,Sales Manager,2022-06-08,143381.24,4,5,Master's,Boston,87.21,1,9,,On Leave,102,14986.32
+643,Mark,Hubbard,Male,31,Finance,Finance Manager,2012-07-23,68911.02,14,1,Master's,Los Angeles,90.52,0,23,,Active,62,10100.98
+644,Sheila,Robinson,Male,33,Customer Support,Support Agent,2024-07-13,113606.56,14,3,PhD,Los Angeles,86.65,0,14,,Active,27,16628.9
+645,Christopher,Washington,Male,24,Customer Support,Customer Service Rep,2025-03-06,149608.21,10,4,PhD,Chicago,80.32,1,3,,Terminated,71,24115.75
+646,Alexander,Myers,Male,25,Marketing,SEO Analyst,2023-09-30,125162.61,19,1,High School,Los Angeles,98.41,0,13,,On Leave,121,13044.94
+647,James,Spence,Male,38,Sales,Business Development Rep,2025-01-10,47618.5,4,4,High School,San Francisco,77.04,0,14,,On Leave,107,8622.11
+648,Richard,Webb,Female,44,Operations,Operations Manager,2011-03-09,143613.58,11,4,High School,Austin,86.89,1,5,,Active,178,22019.49
+649,Sharon,Hall,Male,38,IT,System Administrator,2023-08-24,41560.55,10,4,PhD,Chicago,98.35,1,10,,Terminated,29,5191.61
+650,Ryan,Larson,Female,35,R&D,R&D Manager,2019-09-05,64048.5,1,2,Bachelor's,Austin,85.5,1,5,100.0,Terminated,153,8448.83
+651,Christopher,Anderson,Female,48,Human Resources,HR Manager,2011-12-07,73213.89,0,3,Master's,Boston,87.55,1,22,,Terminated,127,13190.49
+652,Ryan,Herrera,Female,46,Customer Support,Support Manager,2015-07-15,141898.37,3,4,PhD,Seattle,85.71,1,19,344.0,Terminated,41,10860.09
+653,Edward,Johnson,Male,50,Finance,Accountant,2014-09-02,49860.17,3,1,Master's,Los Angeles,90.41,0,15,,Active,191,5568.98
+654,April,Crawford,Male,47,Marketing,SEO Analyst,2018-06-18,61511.63,3,4,Master's,Austin,98.76,1,25,,Terminated,118,6310.6
+655,Samantha,Martin,Male,23,Sales,Sales Manager,2016-10-12,132233.26,9,4,Master's,Boston,91.83,0,13,271.0,On Leave,8,6694.13
+656,Karen,Valenzuela,Female,30,IT,IT Manager,2020-08-02,147083.94,17,2,Bachelor's,Los Angeles,90.41,1,1,248.0,On Leave,147,16031.81
+657,Janice,Hernandez,Male,42,IT,System Administrator,2011-08-17,95468.28,4,5,High School,San Francisco,94.61,0,20,,Active,66,16845.82
+658,Stephen,Pratt,Male,23,Customer Support,Support Agent,2021-01-23,56835.35,18,5,PhD,Boston,92.69,1,2,,Active,146,10690.11
+659,Haley,Rose,Female,25,Marketing,Marketing Manager,2019-08-03,98895.89,6,2,High School,Chicago,93.16,1,12,305.0,Terminated,197,16917.59
+660,Raymond,Thompson,Female,26,Human Resources,Recruiter,2022-02-25,52202.47,3,5,Master's,Austin,78.07,0,8,888.0,On Leave,46,3720.75
+661,Penny,Wells,Male,32,Finance,Financial Analyst,2020-04-10,48093.36,13,1,Master's,New York,80.26,1,10,,Active,162,5433.88
+662,David,Jackson,Male,34,Human Resources,HR Assistant,2024-09-14,149440.77,15,5,High School,Chicago,88.66,0,23,356.0,Active,65,11022.49
+663,Nicholas,Alexander,Male,34,Operations,Operations Coordinator,2017-04-02,55242.15,10,1,Master's,Seattle,93.19,1,8,31.0,On Leave,70,10549.99
+664,Bryce,Casey,Female,28,R&D,Product Designer,2014-10-20,141458.29,12,3,Bachelor's,Austin,79.32,1,22,,Terminated,71,21651.41
+665,Scott,Moore,Male,45,R&D,Product Designer,2015-04-17,122178.72,19,3,PhD,Chicago,90.57,1,13,434.0,Active,51,17238.73
+666,George,Mccarty,Female,33,Sales,Business Development Rep,2014-06-09,130935.51,19,5,Bachelor's,San Francisco,83.81,1,5,,Active,82,7134.81
+667,Denise,Swanson,Male,36,Operations,Operations Manager,2010-11-18,53453.4,10,3,PhD,Seattle,92.21,1,6,,Terminated,119,8420.0
+668,William,Schultz,Female,49,Marketing,Marketing Manager,2023-04-07,70585.33,17,5,Master's,Austin,98.66,1,21,,Active,19,12078.14
+669,Meghan,Rodriguez,Male,58,Human Resources,HR Manager,2023-07-07,86336.1,8,1,Master's,New York,86.32,0,18,,Terminated,98,12105.58
+670,Shane,Parks,Male,52,Human Resources,HR Manager,2022-02-04,44070.9,12,5,PhD,Seattle,97.95,0,20,,On Leave,4,2462.15
+671,Austin,Graves,Female,29,Operations,Operations Manager,2023-04-11,125207.48,17,4,High School,New York,90.31,1,22,,Active,116,13647.51
+672,Johnny,Garcia,Female,25,Human Resources,HR Assistant,2013-04-13,134752.76,10,4,High School,San Francisco,80.66,0,23,,Active,94,8516.71
+673,Mark,Vargas,Male,29,Sales,Sales Executive,2013-02-24,127079.06,19,4,Master's,Chicago,81.75,1,4,,Terminated,149,9600.92
+674,John,Jones,Male,36,Customer Support,Support Manager,2018-01-10,97394.01,3,2,Master's,Seattle,89.45,1,8,,Terminated,82,14530.25
+675,Erika,Mason,Male,22,Finance,Financial Analyst,2018-05-25,112542.89,7,2,PhD,Los Angeles,92.37,0,15,,Active,15,6895.69
+676,Tracy,Bishop,Male,31,R&D,Research Analyst,2018-03-20,123776.28,18,5,Bachelor's,Austin,96.46,1,9,,On Leave,181,20308.37
+677,Daniel,Knox,Female,31,Customer Support,Customer Service Rep,2013-05-28,125802.32,6,2,High School,San Francisco,76.72,0,21,526.0,Active,78,14274.05
+678,Dale,Cohen,Male,49,Human Resources,HR Manager,2012-01-12,92386.45,0,5,Bachelor's,Los Angeles,86.32,1,17,,Terminated,21,8299.7
+679,Robert,Fields,Female,34,Customer Support,Support Manager,2023-02-24,69984.78,14,1,Bachelor's,Seattle,76.23,1,13,,Terminated,49,7514.85
+680,John,Smith,Male,37,R&D,R&D Manager,2025-03-26,111097.93,1,1,High School,Seattle,80.49,1,1,,Active,147,6440.42
+681,Deborah,Gonzalez,Female,60,Customer Support,Customer Service Rep,2020-10-10,120731.68,7,3,High School,San Francisco,87.38,1,6,,Active,88,9133.88
+682,Jessica,Ross,Female,52,R&D,R&D Manager,2013-01-16,58725.58,7,1,Master's,New York,79.17,0,14,,Active,36,5862.18
+683,Crystal,Stewart,Male,24,Sales,Sales Executive,2022-10-04,105340.57,0,4,Master's,Austin,89.58,0,7,,Terminated,120,12982.81
+684,Kyle,Craig,Female,38,IT,Software Engineer,2013-07-05,73506.25,3,3,PhD,New York,86.32,1,17,,On Leave,65,11777.34
+685,Joseph,Young,Female,31,Sales,Business Development Rep,2018-05-23,125197.89,16,5,Bachelor's,Chicago,87.11,0,16,,On Leave,186,11329.23
+686,Jason,Porter,Female,56,R&D,Research Analyst,2016-12-25,79536.19,13,1,Bachelor's,Seattle,79.85,1,20,,Terminated,27,15368.15
+687,Richard,Hendricks,Female,29,Operations,Operations Manager,2021-05-10,143979.32,13,3,PhD,Boston,82.73,1,16,,On Leave,179,8086.6
+688,John,Crawford,Female,41,Finance,Accountant,2024-03-01,91294.92,4,2,Master's,San Francisco,88.08,0,17,,On Leave,170,8533.09
+689,Shannon,Thomas,Female,25,Human Resources,HR Manager,2022-04-18,130801.77,9,1,Bachelor's,Boston,76.33,0,13,,On Leave,90,12540.39
+690,Margaret,Walsh,Female,52,IT,Software Engineer,2024-04-27,149550.57,4,2,Bachelor's,Los Angeles,85.8,0,9,,On Leave,56,28076.47
+691,Patricia,Boone,Female,34,Customer Support,Support Agent,2011-04-23,105674.27,9,2,Bachelor's,Los Angeles,89.1,0,10,943.0,Terminated,148,16045.42
+692,Vincent,Carpenter,Female,55,Marketing,SEO Analyst,2024-06-09,102333.16,9,4,Master's,Boston,88.65,0,13,,On Leave,24,10887.73
+693,Glenn,Curtis,Male,41,Operations,Operations Manager,2014-01-19,90741.24,13,5,Master's,Chicago,75.66,0,2,,Terminated,193,14973.71
+694,Sheila,Gamble,Male,27,Sales,Sales Executive,2020-12-29,53852.94,12,1,Master's,San Francisco,86.57,0,16,,On Leave,117,8856.08
+695,Geoffrey,Allen,Male,35,Finance,Financial Analyst,2022-11-05,135074.55,10,1,PhD,Chicago,93.51,0,23,,Active,183,20418.13
+696,Amber,Gregory,Male,55,IT,System Administrator,2013-02-22,128617.85,0,5,Bachelor's,Austin,92.19,0,0,,Active,39,8643.93
+697,Ashley,Knox,Male,50,R&D,Research Analyst,2013-07-31,82978.53,14,1,PhD,Chicago,82.5,1,5,,Terminated,60,10169.68
+698,Deborah,Michael,Female,59,Human Resources,HR Assistant,2021-06-29,58785.3,7,5,Master's,Seattle,80.01,0,9,,On Leave,170,7175.92
+699,Melanie,Moody,Female,22,Customer Support,Support Manager,2020-03-12,85858.61,14,4,High School,Denver,78.7,1,3,,Active,144,7943.07
+700,Michelle,Ruiz,Female,55,Operations,Operations Coordinator,2019-11-10,70459.44,14,2,High School,Chicago,83.94,1,16,,Terminated,53,12568.27
+701,Joseph,Haas,Female,52,IT,System Administrator,2013-01-11,77322.02,18,2,PhD,Chicago,81.96,0,9,,Terminated,100,12711.05
+702,Courtney,Torres,Male,32,Sales,Sales Executive,2021-12-30,145071.41,18,3,High School,San Francisco,89.61,0,2,,On Leave,11,25312.49
+703,Ronald,Davis,Male,38,R&D,Product Designer,2018-01-30,51597.5,7,2,High School,San Francisco,93.2,0,13,,On Leave,16,5552.54
+704,Kenneth,Porter,Female,34,Operations,Logistics Officer,2014-02-11,141590.59,0,3,PhD,Denver,77.69,0,4,,Terminated,163,16626.48
+705,Theresa,Freeman,Male,35,Sales,Sales Executive,2013-08-14,87746.93,5,5,Bachelor's,New York,95.22,0,18,,On Leave,6,6918.35
+706,Andrew,Roberts,Male,44,Customer Support,Support Manager,2016-07-31,77478.24,2,5,High School,Denver,87.4,1,18,,On Leave,121,13547.88
+707,Tyler,Burton,Male,23,Customer Support,Support Agent,2012-12-07,126062.61,4,3,Master's,Seattle,77.52,1,1,,On Leave,153,15733.48
+708,Elizabeth,Castillo,Male,47,Operations,Operations Coordinator,2014-01-10,48225.48,9,5,High School,Denver,81.03,1,19,162.0,On Leave,128,6156.66
+709,Barbara,Hayes,Female,37,Human Resources,HR Assistant,2017-03-31,62056.24,8,1,High School,New York,78.48,0,23,,On Leave,84,8195.34
+710,Brian,Chavez,Female,24,Finance,Financial Analyst,2013-11-24,142229.99,19,5,Bachelor's,Boston,86.97,0,23,,On Leave,10,9873.56
+711,Audrey,Herrera,Female,23,R&D,Product Designer,2014-08-31,42358.76,7,1,High School,Los Angeles,75.66,1,6,,On Leave,136,7085.49
+712,Kelly,Holmes,Female,43,IT,System Administrator,2019-07-18,55154.75,17,4,High School,Austin,77.95,0,11,,Active,90,7851.17
+713,Steve,Crane,Male,25,Finance,Finance Manager,2025-04-07,122222.33,13,5,High School,Chicago,89.2,0,0,,On Leave,184,24278.34
+714,Jorge,Swanson,Male,26,IT,System Administrator,2011-08-25,106265.76,11,2,Master's,Austin,99.95,0,12,,On Leave,122,7380.95
+715,Victoria,Anderson,Male,56,Operations,Operations Coordinator,2015-03-07,143556.97,9,5,High School,Boston,82.32,1,16,,On Leave,68,21253.12
+716,Nicole,Cochran,Male,31,R&D,Product Designer,2019-02-01,132556.79,4,5,Bachelor's,Denver,80.76,1,6,,Terminated,31,21379.59
+717,Laurie,Barrera,Female,46,R&D,Research Analyst,2016-11-08,69732.84,1,5,High School,Los Angeles,84.6,1,2,,On Leave,15,12138.87
+718,Trevor,Gonzales,Female,23,R&D,Research Analyst,2014-12-23,60286.95,12,4,Master's,Austin,88.31,1,1,,Active,138,8986.39
+719,Michael,Thompson,Female,56,Operations,Logistics Officer,2012-11-01,135231.65,13,1,PhD,Seattle,95.18,1,23,,Active,173,17985.01
+720,Linda,Rice,Female,56,Customer Support,Customer Service Rep,2023-09-26,54506.0,7,1,Master's,Los Angeles,82.02,0,8,,Active,21,8306.16
+721,Larry,Richardson,Female,33,Sales,Sales Manager,2019-01-17,126066.89,8,5,PhD,New York,75.31,1,21,,On Leave,82,12106.74
+722,Matthew,Escobar,Female,26,Human Resources,HR Manager,2021-03-05,92822.87,11,5,Bachelor's,Seattle,80.45,1,2,,On Leave,70,5456.85
+723,Dominique,Stein,Female,54,Sales,Sales Manager,2012-01-09,59194.48,20,5,Master's,New York,91.4,0,20,,Terminated,9,5025.66
+724,Oscar,Clark,Female,26,Marketing,Marketing Specialist,2011-09-01,41773.0,8,3,High School,San Francisco,88.51,0,7,266.0,Active,89,2368.95
+725,Maureen,Martin,Female,43,Marketing,SEO Analyst,2016-04-16,47853.25,13,4,Master's,Denver,96.9,1,10,,On Leave,155,3419.69
+726,Mason,Weaver,Female,35,Human Resources,HR Assistant,2013-04-30,142333.94,9,5,High School,Chicago,75.64,1,25,,On Leave,80,20119.72
+727,Luis,Kramer,Male,55,Finance,Accountant,2014-02-20,95384.55,18,5,PhD,Denver,90.76,0,17,230.0,On Leave,187,15270.37
+728,Elizabeth,Adams,Male,42,Sales,Sales Executive,2014-11-08,140217.65,9,3,Bachelor's,Denver,81.08,1,11,,Terminated,59,23156.46
+729,Sarah,Rodriguez,Male,58,Customer Support,Customer Service Rep,2012-06-12,95620.78,17,3,Bachelor's,Los Angeles,91.33,0,14,,Terminated,107,13461.76
+730,Michael,Dean,Male,34,IT,IT Manager,2022-01-05,77572.9,9,1,PhD,New York,77.04,1,4,,Active,147,8777.64
+731,Justin,Collins,Male,32,Finance,Financial Analyst,2022-07-25,118252.01,17,4,Bachelor's,Los Angeles,93.57,0,1,,On Leave,110,8154.62
+732,Sandra,Lewis,Male,24,Operations,Operations Coordinator,2025-04-03,66557.84,17,3,Master's,Denver,77.98,0,10,,On Leave,151,12287.51
+733,Nicole,Clements,Male,31,R&D,R&D Manager,2017-03-08,123342.61,9,2,Master's,Denver,93.34,0,18,,On Leave,130,19556.73
+734,Jacob,Barron,Female,40,Operations,Operations Manager,2019-09-07,70722.95,18,1,PhD,Boston,80.81,1,1,,Active,144,8769.22
+735,Linda,Adams,Male,32,IT,Software Engineer,2025-07-28,87359.14,6,3,Master's,Seattle,89.38,1,3,,On Leave,88,12433.09
+736,John,Graham,Male,57,R&D,Research Analyst,2014-07-13,148768.61,8,1,High School,New York,98.11,0,4,296.0,Terminated,24,22310.09
+737,Audrey,Diaz,Female,51,Marketing,Marketing Specialist,2011-01-23,80649.46,0,3,High School,San Francisco,98.55,0,23,,On Leave,113,10942.1
+738,Kirk,Miller,Male,42,Customer Support,Customer Service Rep,2024-01-17,149238.5,4,1,Master's,Seattle,99.21,0,23,,On Leave,56,25452.05
+739,Danielle,Shaw,Male,22,Finance,Finance Manager,2010-10-28,87671.54,1,5,Bachelor's,Los Angeles,82.94,0,21,,Active,160,15449.01
+740,Nicholas,Lowe,Female,22,Marketing,SEO Analyst,2017-12-06,129525.57,15,4,High School,Denver,82.06,0,2,,Terminated,132,10334.32
+741,Elizabeth,Mcintosh,Male,55,Marketing,Marketing Manager,2013-12-17,115677.98,13,5,Master's,Austin,84.51,1,20,,On Leave,89,15915.54
+742,Mark,Robbins,Female,48,R&D,Product Designer,2018-08-02,105762.63,12,5,Master's,Austin,87.02,1,3,,Terminated,193,6819.57
+743,Alexis,Mckee,Female,60,Customer Support,Support Agent,2011-01-16,112667.41,10,3,Bachelor's,New York,92.42,1,24,,On Leave,123,17544.89
+744,Nicole,Herrera,Female,47,Sales,Business Development Rep,2012-07-20,46688.36,13,3,High School,Seattle,81.54,1,12,,On Leave,113,4558.78
+745,Ruben,Norris,Male,43,Marketing,SEO Analyst,2013-07-11,73936.17,1,4,High School,New York,80.53,0,17,,On Leave,52,13407.83
+746,Jacob,King,Female,32,Finance,Finance Manager,2016-12-16,124352.63,11,5,Bachelor's,Seattle,76.59,0,6,,Active,92,7135.64
+747,Rhonda,Howard,Male,53,Operations,Operations Manager,2021-11-12,120666.78,17,1,Bachelor's,Seattle,75.9,1,16,,On Leave,26,6395.85
+748,Jean,Tyler,Male,27,Human Resources,HR Assistant,2022-01-21,43715.58,7,1,High School,Los Angeles,95.32,1,12,,Active,33,4663.51
+749,Paul,Coleman,Female,42,Human Resources,Recruiter,2015-02-04,141087.2,19,1,High School,Seattle,93.4,1,6,,On Leave,155,23828.64
+750,Melissa,Thompson,Female,52,R&D,Research Analyst,2015-09-14,103382.13,20,4,Bachelor's,Los Angeles,82.28,1,13,,Active,143,6612.25
+751,Andrea,Bailey,Female,50,R&D,R&D Manager,2011-07-05,123897.04,11,1,PhD,San Francisco,86.31,0,0,,Terminated,101,16934.49
+752,William,Flowers,Male,27,Sales,Sales Manager,2023-06-04,147339.92,20,1,PhD,Denver,89.02,0,15,,Terminated,151,11956.97
+753,Christopher,Williams,Female,22,Marketing,Marketing Specialist,2015-01-10,85304.44,8,3,Bachelor's,Denver,95.86,1,22,,Terminated,144,4732.39
+754,Charles,Roberts,Male,49,R&D,Product Designer,2010-11-16,90750.92,10,4,PhD,Chicago,87.86,0,23,242.0,Active,20,16226.08
+755,Kaitlin,Kane,Female,30,IT,IT Manager,2019-07-19,61710.44,5,1,PhD,New York,75.98,1,5,,On Leave,160,7011.99
+756,Tiffany,Brooks,Male,55,Finance,Financial Analyst,2025-09-07,97472.81,8,5,Master's,Seattle,97.24,1,5,738.0,On Leave,36,13117.07
+757,Aaron,Spears,Female,22,R&D,Research Analyst,2010-12-06,58066.2,4,4,Bachelor's,Austin,75.25,0,4,950.0,Terminated,120,6529.28
+758,Scott,Stewart,Male,44,Finance,Finance Manager,2019-05-02,46721.86,3,4,Bachelor's,Seattle,89.86,0,20,,On Leave,143,2804.05
+759,Haley,Zimmerman,Male,26,Customer Support,Support Manager,2019-09-21,108695.1,11,4,High School,Austin,98.36,0,20,,On Leave,168,14583.28
+760,Adam,Gutierrez,Male,52,IT,System Administrator,2020-12-26,127657.29,4,5,Bachelor's,New York,91.12,1,18,,Active,197,13715.75
+761,Colton,Reeves,Female,49,Marketing,Marketing Specialist,2011-10-01,55766.67,4,4,Master's,Seattle,96.87,1,1,630.0,Terminated,35,5493.05
+762,Matthew,Ortiz,Male,60,Finance,Accountant,2014-01-04,125131.16,12,4,Bachelor's,Seattle,83.87,0,10,,Terminated,135,21997.73
+763,Cheryl,Welch,Male,33,IT,System Administrator,2019-04-14,116460.97,15,3,Master's,Denver,92.13,1,13,,Terminated,166,15569.17
+764,Jamie,Sandoval,Female,50,Operations,Logistics Officer,2015-09-17,101577.34,19,2,Bachelor's,New York,84.56,0,23,,Terminated,2,7806.3
+765,Heather,Caldwell,Female,52,Sales,Sales Manager,2021-11-24,140738.78,11,5,High School,Seattle,98.04,1,1,,On Leave,165,19846.44
+766,Andrew,Lee,Female,24,Human Resources,Recruiter,2020-05-28,149695.47,15,4,High School,Chicago,87.26,0,20,,Terminated,192,18115.74
+767,Scott,Keller,Female,43,IT,Software Engineer,2013-11-20,46165.28,3,1,Bachelor's,Boston,82.86,0,8,,Terminated,49,8248.98
+768,Susan,Murray,Male,39,Human Resources,Recruiter,2025-07-04,47145.04,1,5,PhD,Chicago,78.69,0,5,,Terminated,113,4242.84
+769,Michael,Mccormick,Male,29,Human Resources,HR Manager,2016-08-05,52948.6,11,4,Bachelor's,San Francisco,89.2,0,18,,Active,118,8177.58
+770,Brandon,Grant,Male,41,Operations,Logistics Officer,2012-11-17,124339.48,0,1,Bachelor's,Seattle,80.44,0,2,,Active,185,13202.3
+771,Julie,Kerr,Female,40,Customer Support,Support Manager,2013-04-11,55446.87,8,3,PhD,Seattle,85.35,0,8,,Active,51,9719.35
+772,Darryl,Norman,Male,31,R&D,Product Designer,2015-05-26,124960.76,11,5,PhD,Boston,86.24,1,5,,Terminated,9,18076.07
+773,Theresa,Jackson,Male,38,Sales,Sales Executive,2018-09-11,100677.23,16,3,High School,Chicago,77.27,1,8,,On Leave,55,16713.56
+774,Larry,Parker,Male,22,IT,System Administrator,2020-12-08,102014.64,11,5,PhD,Denver,97.53,1,3,,On Leave,161,10033.73
+775,Joshua,Cook,Female,59,Operations,Logistics Officer,2023-11-30,73690.32,11,4,PhD,Denver,88.67,1,14,192.0,Active,157,11997.28
+776,Arthur,Murray,Female,48,Sales,Business Development Rep,2014-05-27,93081.34,10,4,Master's,Los Angeles,82.5,0,7,,Terminated,195,18208.09
+777,Tara,Sanchez,Male,43,Human Resources,HR Assistant,2018-09-18,137525.48,9,5,High School,Seattle,79.96,0,24,,Active,35,26936.31
+778,John,Chang,Male,37,Operations,Operations Manager,2013-06-12,40092.75,14,2,PhD,San Francisco,80.01,0,9,,Terminated,20,3039.44
+779,Derrick,Hill,Female,52,Marketing,Marketing Specialist,2011-01-07,40543.93,11,2,PhD,Austin,83.62,0,21,,Active,100,4890.41
+780,Howard,Boyd,Male,56,Customer Support,Support Agent,2015-03-15,83987.19,4,3,Master's,Denver,97.45,1,23,,Terminated,108,14527.15
+781,Brent,Thomas,Male,26,Human Resources,HR Assistant,2020-12-24,80604.58,7,3,Bachelor's,Denver,87.54,1,19,183.0,Active,192,4049.47
+782,Phillip,Knox,Female,24,Human Resources,HR Assistant,2013-05-29,77354.53,2,2,PhD,Chicago,85.64,1,12,,Active,172,7174.22
+783,Deanna,Lewis,Female,32,Customer Support,Support Manager,2016-02-02,91141.5,3,1,Bachelor's,Los Angeles,83.66,0,20,,Terminated,103,14573.58
+784,Luke,Anthony,Female,54,R&D,Research Analyst,2011-11-12,86470.28,12,1,PhD,Boston,82.57,1,20,,Terminated,29,7678.33
+785,Kimberly,Mcdonald,Female,34,Operations,Operations Coordinator,2018-01-25,98488.28,13,4,PhD,New York,96.76,1,0,,On Leave,86,6106.41
+786,Michele,Maxwell,Male,40,Sales,Sales Executive,2022-12-08,90627.58,15,1,Master's,Chicago,97.23,1,8,,On Leave,108,13862.23
+787,Patricia,Kerr,Male,37,Operations,Operations Manager,2021-10-17,72745.17,10,1,High School,San Francisco,89.89,1,1,,Active,136,7535.43
+788,Rebecca,Hall,Male,24,IT,IT Manager,2012-06-27,77992.49,8,4,Master's,Boston,92.22,1,23,,Active,134,6755.33
+789,Darrell,Morton,Male,23,IT,IT Manager,2018-02-16,82010.43,3,1,Master's,San Francisco,83.44,1,9,654.0,On Leave,108,11933.43
+790,Daniel,Williams,Female,58,Finance,Accountant,2023-09-15,107713.96,9,5,Bachelor's,Los Angeles,96.36,1,25,,On Leave,12,9324.03
+791,Deborah,Nichols,Male,48,IT,System Administrator,2020-03-28,106508.48,1,2,Master's,Seattle,91.96,0,13,,On Leave,53,9681.82
+792,Jennifer,Martinez,Female,59,Operations,Operations Coordinator,2021-07-16,117990.94,0,2,Master's,Los Angeles,76.59,1,22,,On Leave,155,10993.77
+793,Courtney,Moore,Female,46,Human Resources,HR Manager,2013-05-27,130489.16,11,2,PhD,New York,86.55,0,6,,Terminated,136,21059.08
+794,Kenneth,Hernandez,Male,23,Finance,Finance Manager,2018-09-22,49140.12,11,5,Bachelor's,Boston,84.23,1,10,,Terminated,115,4608.04
+795,Kathleen,Gonzalez,Male,60,Customer Support,Customer Service Rep,2024-10-20,101208.34,9,4,High School,Los Angeles,99.74,1,17,24.0,Active,33,10757.7
+796,Cory,Taylor,Female,42,Marketing,Marketing Specialist,2014-07-02,135138.26,5,4,High School,Boston,88.75,1,6,,Terminated,107,13892.71
+797,Roberto,Bailey,Female,56,Customer Support,Support Agent,2021-04-14,71491.18,14,4,PhD,Chicago,78.92,0,12,507.0,Terminated,73,12940.0
+798,Stacy,Jimenez,Female,60,Finance,Financial Analyst,2019-09-19,147167.21,13,4,High School,Boston,79.72,0,7,,Terminated,35,7999.44
+799,John,Meadows,Male,57,Marketing,Marketing Specialist,2010-11-27,115279.94,15,3,Bachelor's,Denver,75.57,1,25,,On Leave,167,16162.41
+800,Beth,Owens,Female,37,Marketing,Marketing Specialist,2017-09-08,75499.66,6,3,Bachelor's,Chicago,76.62,1,18,,On Leave,118,4124.81
+801,Angela,Crawford,Male,46,Finance,Finance Manager,2025-02-10,66934.98,5,1,PhD,Seattle,75.17,1,21,,Terminated,104,3671.28
+802,George,White,Female,24,Finance,Finance Manager,2019-01-21,148812.97,20,1,PhD,Denver,85.96,1,1,,On Leave,74,25917.72
+803,Toni,Carrillo,Male,43,Finance,Accountant,2021-03-17,123373.45,8,5,Bachelor's,Denver,93.84,1,5,,Active,93,8237.34
+804,Joseph,Brown,Female,43,Sales,Sales Executive,2021-02-15,90406.62,2,4,Master's,Seattle,93.81,1,10,,Terminated,75,14785.74
+805,John,Richard,Female,58,Human Resources,HR Assistant,2022-04-18,42853.45,9,3,PhD,Denver,89.09,0,9,,Terminated,183,6731.01
+806,Teresa,Stewart,Female,59,Sales,Sales Executive,2019-03-14,56117.88,4,3,Bachelor's,New York,96.48,0,7,,On Leave,7,4971.81
+807,Nicholas,Leon,Female,55,Operations,Logistics Officer,2022-04-20,84642.91,16,5,PhD,Denver,97.5,1,20,,Terminated,39,16578.2
+808,Corey,Owen,Male,36,IT,IT Manager,2021-04-26,138684.7,15,1,Master's,San Francisco,91.72,0,7,,Terminated,79,8281.26
+809,Jason,Wilson,Female,34,Marketing,SEO Analyst,2025-08-28,140397.28,18,1,High School,Los Angeles,96.0,0,25,,Terminated,134,24830.93
+810,Erin,Gilbert,Male,58,Finance,Financial Analyst,2024-05-15,100861.29,8,5,Bachelor's,Seattle,96.17,1,2,,Terminated,14,13178.47
+811,Austin,Powell,Male,27,IT,IT Manager,2021-11-06,65117.39,7,4,High School,Chicago,79.44,1,8,879.0,Terminated,141,12822.05
+812,Hannah,Brown,Male,26,Sales,Sales Executive,2021-01-11,104424.51,7,5,PhD,San Francisco,86.93,1,25,,On Leave,13,6760.5
+813,Catherine,Lewis,Male,50,Finance,Financial Analyst,2023-11-21,104831.35,17,5,PhD,New York,87.18,0,18,,On Leave,110,14194.1
+814,Juan,Garcia,Male,56,Customer Support,Support Manager,2015-11-04,59418.51,20,5,Master's,Seattle,87.08,1,20,,Terminated,76,5499.98
+815,Leah,Velez,Female,26,Sales,Business Development Rep,2017-10-06,93633.85,5,3,Master's,San Francisco,97.33,0,15,,On Leave,41,11838.33
+816,Brittany,Weber,Female,55,Operations,Logistics Officer,2014-07-18,61295.51,5,1,High School,Seattle,94.07,1,16,,Terminated,78,5025.16
+817,Amy,Johns,Female,42,Marketing,Marketing Manager,2018-04-30,57202.65,10,4,PhD,Seattle,94.65,0,19,,Active,169,10173.7
+818,Jeffrey,Phillips,Female,41,Sales,Sales Manager,2024-10-27,80787.02,9,3,PhD,Los Angeles,83.34,1,23,855.0,Active,80,8328.34
+819,Kathleen,Mann,Female,38,Customer Support,Support Agent,2020-06-12,128590.78,20,4,Master's,New York,94.18,0,22,363.0,On Leave,51,6805.27
+820,Robert,Welch,Male,37,Customer Support,Customer Service Rep,2023-04-30,121291.87,17,2,Master's,Denver,90.44,0,8,,Terminated,27,14071.73
+821,Emily,Watkins,Male,28,R&D,Research Analyst,2012-02-17,115658.11,12,4,Master's,Seattle,81.25,0,18,,Terminated,96,22904.86
+822,Scott,Coleman,Female,59,Operations,Operations Manager,2014-06-26,54771.32,15,1,Bachelor's,San Francisco,83.11,0,13,114.0,On Leave,38,9107.73
+823,Mark,Ellis,Female,45,Marketing,SEO Analyst,2021-07-27,101234.19,8,3,Bachelor's,Chicago,92.24,1,24,,On Leave,17,7194.73
+824,Ashley,Johnson,Female,48,R&D,Research Analyst,2023-02-16,61888.37,10,3,PhD,Denver,81.38,0,0,,Active,35,10035.05
+825,Brian,Zavala,Female,40,Human Resources,Recruiter,2019-08-26,88092.76,18,1,High School,San Francisco,98.99,1,10,,Terminated,137,15941.45
+826,Dennis,Thornton,Female,26,Finance,Finance Manager,2023-04-05,57404.63,17,5,Master's,Denver,96.16,0,14,,On Leave,156,3625.65
+827,Jesus,Pham,Female,47,IT,IT Manager,2015-08-13,111262.38,5,3,High School,Los Angeles,86.35,0,23,,Active,110,18599.39
+828,Allen,Carson,Female,58,Human Resources,HR Assistant,2020-11-10,68473.82,4,2,Bachelor's,Austin,89.61,0,17,,Active,117,11309.6
+829,Nicole,Bass,Male,36,Marketing,SEO Analyst,2019-06-01,98676.43,0,1,Bachelor's,Seattle,94.49,1,2,,Active,83,12927.74
+830,Roy,Scott,Female,23,Customer Support,Customer Service Rep,2014-08-02,124957.99,6,1,Bachelor's,Los Angeles,78.43,1,14,,Active,31,23096.23
+831,Maria,Goodman,Male,32,R&D,Product Designer,2012-10-28,124808.21,6,5,High School,Denver,95.36,0,5,,Terminated,129,7978.71
+832,Justin,Johnson,Male,51,Operations,Logistics Officer,2014-04-09,63136.02,6,1,High School,Los Angeles,94.99,0,8,426.0,On Leave,130,6564.81
+833,Zachary,Lindsey,Female,46,Customer Support,Support Agent,2016-06-18,132018.81,9,4,High School,Seattle,98.65,0,7,,Terminated,179,19512.42
+834,Ethan,Hernandez,Male,25,Operations,Operations Coordinator,2014-06-03,59509.42,7,1,Master's,Boston,78.2,0,22,,Terminated,120,4365.83
+835,Michael,Lee,Male,32,Customer Support,Support Agent,2014-09-11,142992.07,5,2,PhD,Austin,93.55,0,5,,On Leave,93,24530.0
+836,Michael,Matthews,Male,48,Customer Support,Support Manager,2025-01-16,108410.49,8,1,PhD,Chicago,94.58,0,15,,Active,8,10812.57
+837,Lisa,Madden,Male,30,Finance,Accountant,2014-09-29,50133.63,7,1,Master's,Denver,77.81,1,13,,On Leave,137,6083.89
+838,Randall,Graham,Male,30,Sales,Sales Executive,2018-07-01,80214.1,17,5,Bachelor's,Chicago,91.71,0,15,,Active,191,5170.58
+839,Steven,Martin,Female,43,Finance,Finance Manager,2017-12-07,71052.98,12,5,Master's,Chicago,77.63,1,5,,On Leave,186,5963.73
+840,Steven,Johnson,Male,33,Customer Support,Customer Service Rep,2023-05-26,121005.14,18,1,Bachelor's,New York,93.7,0,20,,Active,12,20566.72
+841,Kelly,Chang,Female,35,IT,System Administrator,2015-04-10,92885.4,18,3,Master's,Denver,79.69,1,18,,Active,103,16759.21
+842,Michael,Smith,Female,28,Sales,Business Development Rep,2012-02-11,77098.01,10,2,Master's,San Francisco,81.38,1,15,,On Leave,197,13187.48
+843,Adam,Cline,Female,30,Customer Support,Support Manager,2015-05-15,53885.1,17,2,Master's,Denver,99.38,1,3,,On Leave,140,9403.58
+844,Natalie,Proctor,Male,58,Finance,Finance Manager,2011-01-11,61436.58,16,2,Master's,Austin,94.4,0,23,,Terminated,90,4902.74
+845,Catherine,Mitchell,Female,34,IT,System Administrator,2013-11-04,109839.81,5,5,High School,Los Angeles,80.66,1,22,,On Leave,38,20825.33
+846,Brandon,White,Male,35,Customer Support,Support Manager,2016-11-08,91480.46,15,2,High School,Los Angeles,93.04,1,2,916.0,Active,64,8690.55
+847,Christine,Smith,Male,26,IT,System Administrator,2022-07-20,83036.21,7,2,Master's,Chicago,91.15,1,6,,On Leave,63,9021.88
+848,David,Navarro,Female,55,Finance,Finance Manager,2016-02-09,62641.42,4,2,High School,Denver,91.81,0,0,,Active,163,10278.69
+849,Melissa,Braun,Male,39,R&D,Product Designer,2014-11-23,121720.29,17,4,PhD,Seattle,78.84,1,24,,Active,184,22157.24
+850,Travis,Garner,Female,37,R&D,Product Designer,2014-06-20,123430.55,15,2,PhD,Los Angeles,88.07,1,23,,Active,154,7811.42
+851,Crystal,Wise,Male,22,Finance,Financial Analyst,2018-02-19,139520.45,8,5,PhD,Austin,83.22,0,8,,Terminated,91,20934.59
+852,Anthony,Green,Male,24,R&D,Research Analyst,2011-03-04,51436.2,8,4,High School,San Francisco,89.02,1,12,,Active,155,9032.8
+853,Andrea,Beasley,Male,58,Marketing,SEO Analyst,2014-03-11,86401.23,19,4,PhD,Los Angeles,92.96,1,20,,Terminated,112,4836.72
+854,Holly,Davis,Female,38,Human Resources,HR Assistant,2021-07-07,109357.34,0,3,Master's,Boston,77.47,1,25,,Active,7,20570.17
+855,Daniel,Perez,Female,47,Sales,Sales Manager,2020-10-16,90402.5,10,3,Bachelor's,Denver,94.22,1,17,,Active,197,6697.81
+856,Bryan,Carroll,Male,53,Operations,Operations Manager,2015-09-30,74818.76,7,3,PhD,Austin,77.53,1,20,,On Leave,103,11843.14
+857,Jennifer,Mccarthy,Female,54,R&D,Product Designer,2016-06-08,138535.83,14,2,Bachelor's,Los Angeles,98.98,1,3,,Terminated,48,13633.86
+858,Ryan,Esparza,Male,47,Finance,Accountant,2021-09-08,140616.7,19,4,PhD,San Francisco,96.31,1,10,,Terminated,136,10105.39
+859,Andrew,Andrews,Female,23,Sales,Business Development Rep,2022-07-26,75621.99,2,2,Bachelor's,Austin,86.06,1,17,,Active,39,4243.6
+860,Theresa,Torres,Male,48,Marketing,SEO Analyst,2024-02-28,55991.44,6,3,PhD,Chicago,81.09,1,19,,Terminated,123,2974.05
+861,Daniel,Jackson,Female,42,Customer Support,Support Manager,2020-12-12,122147.21,12,3,High School,Chicago,95.09,0,11,,On Leave,93,10936.28
+862,Brandon,Novak,Male,44,Marketing,Marketing Manager,2018-08-14,147911.21,3,5,PhD,Seattle,92.71,0,3,,Terminated,154,19273.42
+863,Michelle,Johnson,Female,44,Human Resources,HR Manager,2016-09-29,105016.92,15,1,Bachelor's,San Francisco,98.83,0,17,,Terminated,114,7949.9
+864,Yvette,Fitzgerald,Male,47,Operations,Operations Coordinator,2012-11-17,67721.33,18,1,PhD,Seattle,92.84,0,22,283.0,Terminated,195,8371.81
+865,Lisa,Harris,Female,25,Sales,Sales Manager,2020-11-13,144089.46,16,2,High School,San Francisco,94.16,0,18,,Terminated,80,28389.48
+866,Mark,Smith,Male,53,Finance,Finance Manager,2022-11-20,120581.2,5,2,Master's,San Francisco,99.49,0,5,,Active,46,20023.73
+867,Sarah,Lee,Female,41,Customer Support,Support Manager,2023-01-18,128540.53,12,4,Bachelor's,Los Angeles,92.41,0,10,,On Leave,46,9097.64
+868,Jeffrey,Ross,Female,55,R&D,Research Analyst,2016-08-25,62066.8,12,3,High School,New York,99.64,0,10,,Terminated,115,8996.65
+869,Michael,Mccormick,Male,26,Human Resources,Recruiter,2018-01-03,40190.18,5,5,Bachelor's,Denver,75.31,1,9,,Active,7,3979.99
+870,Thomas,Edwards,Male,50,Marketing,SEO Analyst,2025-07-22,105969.01,4,5,High School,San Francisco,79.42,0,24,,On Leave,45,12303.49
+871,Matthew,Hendrix,Female,51,Sales,Sales Executive,2014-06-29,104911.7,5,2,PhD,San Francisco,97.51,1,19,,Terminated,39,13077.0
+872,Jennifer,Parks,Male,59,Finance,Financial Analyst,2025-10-01,66339.65,4,4,High School,Boston,79.71,1,11,,Terminated,15,7340.0
+873,Patricia,Campos,Female,49,Customer Support,Support Manager,2013-08-24,75234.81,9,4,High School,Denver,94.09,1,20,,Active,109,7067.85
+874,Brian,Jones,Male,55,R&D,Research Analyst,2011-12-23,107062.96,15,3,Bachelor's,San Francisco,87.44,0,9,,On Leave,197,17981.65
+875,Angela,Lewis,Male,49,IT,IT Manager,2025-04-19,98772.13,1,1,Master's,New York,99.17,0,11,,Active,137,10641.24
+876,Kimberly,Vargas,Female,24,Finance,Financial Analyst,2021-02-21,118365.16,7,1,Bachelor's,San Francisco,92.85,0,18,914.0,On Leave,163,14711.76
+877,Nicole,Bates,Male,31,Human Resources,HR Assistant,2017-08-04,148284.22,10,4,Master's,Los Angeles,95.66,0,12,,Terminated,11,15683.66
+878,David,Martinez,Male,38,Sales,Sales Executive,2012-09-09,85012.37,8,1,PhD,New York,85.4,1,8,670.0,Terminated,48,9525.29
+879,Daniel,Kennedy,Female,56,R&D,Research Analyst,2024-11-22,47757.68,7,1,Bachelor's,Seattle,77.88,0,15,,Terminated,17,8851.05
+880,Gregory,Gross,Male,34,Customer Support,Customer Service Rep,2022-09-06,134105.89,9,3,High School,Denver,77.71,1,6,,On Leave,22,9107.15
+881,Nathan,Browning,Male,50,Finance,Accountant,2013-03-06,60292.62,12,1,Bachelor's,Austin,81.04,0,14,,Terminated,189,8579.53
+882,Amanda,Hernandez,Female,47,Operations,Operations Coordinator,2014-03-12,77548.22,4,3,Bachelor's,Seattle,98.05,0,6,,Terminated,164,7950.06
+883,Meagan,Anderson,Male,57,Finance,Accountant,2012-08-30,76947.75,6,4,Bachelor's,Boston,75.63,1,7,,Active,154,8932.06
+884,Stephanie,Thompson,Male,31,Finance,Finance Manager,2016-12-24,98770.11,16,5,Bachelor's,New York,93.01,0,10,,On Leave,94,15666.12
+885,Raymond,Scott,Female,23,Human Resources,Recruiter,2022-02-12,124556.5,12,1,PhD,Seattle,96.43,0,1,,Terminated,144,20467.93
+886,Amy,Avila,Female,56,Customer Support,Customer Service Rep,2017-01-03,107386.94,15,3,Bachelor's,Chicago,99.5,1,15,244.0,On Leave,39,15625.3
+887,Michael,Davis,Male,56,IT,System Administrator,2017-10-30,80488.59,5,1,PhD,Chicago,85.79,1,1,904.0,Terminated,117,7644.7
+888,Jonathan,Schmitt,Male,47,Operations,Operations Coordinator,2020-01-12,90663.97,13,4,Bachelor's,Austin,86.1,1,11,432.0,Active,86,9815.86
+889,Robert,Anderson,Female,35,Marketing,Marketing Manager,2012-04-28,79975.64,19,4,Bachelor's,Denver,88.71,1,13,,Active,95,13163.71
+890,Justin,Green,Female,55,R&D,Product Designer,2018-11-01,85332.96,19,2,Bachelor's,Denver,80.43,1,5,979.0,Active,168,11328.29
+891,Brent,Edwards,Female,31,Marketing,SEO Analyst,2019-12-01,70065.2,5,5,Master's,Denver,94.23,0,18,,Active,200,10242.53
+892,Victoria,Bruce,Female,25,IT,System Administrator,2018-09-07,98364.69,19,1,High School,Boston,91.9,0,2,,On Leave,5,16529.63
+893,Mercedes,Francis,Male,43,Marketing,Marketing Manager,2011-12-23,73831.8,6,1,Master's,Seattle,84.07,1,18,,Active,114,13761.28
+894,Melissa,May,Male,37,IT,Software Engineer,2011-12-20,98553.57,3,5,Bachelor's,Denver,85.24,1,20,,Active,120,13230.78
+895,Ryan,Nolan,Male,50,Human Resources,HR Assistant,2020-08-13,92456.8,12,1,PhD,Boston,89.65,0,11,485.0,On Leave,112,18321.79
+896,Robert,Tyler,Female,42,Finance,Financial Analyst,2024-11-14,108643.42,4,4,High School,Boston,97.92,0,25,,Terminated,171,7240.62
+897,Alexander,Brady,Female,53,R&D,Research Analyst,2013-04-20,85951.25,18,2,Bachelor's,New York,84.13,0,16,,Terminated,71,7555.75
+898,Nicole,Lewis,Female,27,Marketing,Marketing Manager,2024-06-12,149576.93,14,3,High School,Chicago,76.01,1,24,,Terminated,168,24306.2
+899,Bailey,West,Female,43,Human Resources,Recruiter,2021-12-28,81873.82,9,4,PhD,Los Angeles,84.5,1,21,,Terminated,69,4535.6
+900,Marcus,Li,Male,42,Operations,Operations Coordinator,2020-08-27,100762.09,8,4,High School,Chicago,82.04,0,14,737.0,Active,171,6297.22
+901,Michael,Schroeder,Male,43,Marketing,Marketing Specialist,2023-09-06,56940.67,2,2,Bachelor's,Denver,94.47,0,0,,Terminated,185,10223.9
+902,Katrina,Woodward,Male,27,Operations,Logistics Officer,2015-09-12,46178.31,3,2,PhD,Austin,79.99,0,2,,Active,47,7476.71
+903,Chelsea,Wagner,Female,52,Human Resources,Recruiter,2023-08-01,108799.69,10,2,High School,Denver,86.9,0,15,,Active,154,8659.91
+904,Crystal,Roberts,Male,34,Human Resources,HR Assistant,2014-12-01,68958.78,6,5,Master's,Austin,89.39,0,3,,Active,179,5406.5
+905,Jennifer,Bryan,Male,55,Customer Support,Support Manager,2014-01-15,106170.94,9,5,Master's,Seattle,91.01,0,8,,Active,88,8784.45
+906,Justin,Rosales,Male,22,Finance,Accountant,2011-02-06,139296.28,11,1,Master's,Boston,90.5,1,2,,Terminated,172,24050.27
+907,Misty,Mitchell,Male,36,Finance,Finance Manager,2017-02-12,89586.56,10,4,High School,Boston,84.26,0,15,,On Leave,80,8514.04
+908,Michael,Sellers,Male,23,R&D,Product Designer,2023-12-27,90998.62,12,4,Master's,Los Angeles,86.3,1,24,,Terminated,98,6489.33
+909,Brandon,Thompson,Female,47,IT,System Administrator,2017-09-26,127051.26,13,2,Bachelor's,Seattle,78.78,0,6,,On Leave,24,24381.96
+910,Mark,Nunez,Female,49,Marketing,Marketing Specialist,2024-08-06,73387.43,5,5,Bachelor's,Denver,81.94,1,19,,Terminated,185,5760.32
+911,Natalie,Lawson,Male,53,Human Resources,HR Manager,2025-09-25,117662.65,10,5,Master's,Chicago,82.23,1,15,69.0,On Leave,55,10033.43
+912,Tracy,Fernandez,Female,45,Sales,Business Development Rep,2013-10-22,53403.21,19,2,High School,New York,88.24,0,11,,On Leave,176,5402.51
+913,Matthew,Brown,Female,58,Operations,Operations Manager,2024-01-09,115711.0,10,3,Bachelor's,Chicago,90.85,1,15,,On Leave,71,21438.47
+914,Diana,Kramer,Male,46,Marketing,Marketing Manager,2013-06-19,129465.41,7,2,Master's,San Francisco,87.21,0,0,,Terminated,80,15595.78
+915,Stephen,Hernandez,Male,45,R&D,Product Designer,2024-10-07,47361.8,8,4,PhD,Austin,94.44,0,8,,Active,182,7989.57
+916,James,Coleman,Male,34,Human Resources,HR Manager,2021-03-22,93080.84,19,2,Master's,New York,94.59,0,15,,Terminated,80,18011.16
+917,James,Olson,Male,35,Marketing,Marketing Manager,2012-04-04,67304.91,9,4,Master's,New York,85.57,1,0,,Active,76,11629.48
+918,Thomas,Thomas,Female,39,Customer Support,Support Agent,2020-11-18,89135.36,4,4,Master's,Austin,88.88,0,24,,Terminated,80,12396.66
+919,Jesse,Chavez,Female,31,R&D,Product Designer,2012-10-07,75508.41,4,1,PhD,New York,78.1,1,17,,Terminated,122,13603.64
+920,Desiree,Beck,Male,54,Customer Support,Support Manager,2012-04-21,75927.15,5,1,Bachelor's,Denver,91.09,0,24,,Active,145,7486.58
+921,Ryan,Hebert,Female,48,Finance,Accountant,2022-07-25,57971.99,16,2,High School,Denver,77.3,0,11,,On Leave,86,6031.84
+922,Megan,Olsen,Male,38,Human Resources,Recruiter,2019-02-06,116404.53,12,5,Bachelor's,New York,95.57,0,14,,Terminated,40,20039.58
+923,Sabrina,Pittman,Female,42,Human Resources,HR Assistant,2015-12-01,92656.26,7,1,PhD,New York,80.48,1,4,,Terminated,35,7866.5
+924,Thomas,Allen,Female,22,Sales,Sales Manager,2018-10-01,100503.42,13,1,High School,Boston,80.0,1,7,,Terminated,149,5567.97
+925,Rachel,Orr,Female,34,IT,System Administrator,2013-05-30,40808.49,17,5,Master's,Austin,82.04,0,16,,On Leave,99,5445.46
+926,Seth,Snyder,Male,35,Sales,Sales Manager,2017-01-27,89681.47,9,4,High School,New York,90.08,1,16,,On Leave,197,13246.97
+927,Brandy,Wright,Male,51,Finance,Finance Manager,2011-11-27,123573.52,6,3,Bachelor's,Seattle,95.82,1,18,211.0,Active,77,18675.78
+928,Aaron,Mann,Male,47,Human Resources,HR Manager,2016-12-04,134639.38,5,2,PhD,Denver,87.49,1,23,,Terminated,83,21271.85
+929,Curtis,Vazquez,Female,41,Sales,Business Development Rep,2016-01-22,107800.73,2,1,PhD,Chicago,96.32,0,0,255.0,Active,70,15403.81
+930,Randy,Weeks,Female,29,Human Resources,HR Manager,2024-12-24,146803.42,6,3,Bachelor's,Seattle,76.9,0,0,,On Leave,76,16533.45
+931,Patrick,Fisher,Female,59,Marketing,Marketing Specialist,2024-01-22,136831.96,0,4,Master's,New York,79.36,1,23,763.0,Terminated,60,9152.42
+932,Dominique,Thomas,Male,48,R&D,Research Analyst,2011-03-03,63702.31,4,4,High School,New York,91.95,1,15,,Terminated,110,3470.8
+933,Brittany,Johnson,Male,22,Finance,Financial Analyst,2015-05-28,62296.85,15,3,PhD,Denver,75.61,1,6,,Active,60,5656.2
+934,James,Johnson,Female,42,Human Resources,HR Manager,2012-06-16,80402.69,19,4,PhD,Chicago,88.61,0,11,,Terminated,185,8521.89
+935,Robert,Jordan,Female,45,Customer Support,Customer Service Rep,2011-06-03,124404.46,11,2,High School,Seattle,95.36,1,15,,Active,172,20246.69
+936,Robin,Valdez,Male,56,Operations,Operations Manager,2017-06-22,122907.36,14,2,Bachelor's,Austin,97.24,1,20,,Terminated,37,12477.32
+937,Lisa,Parks,Female,36,Customer Support,Support Agent,2011-04-08,148955.43,3,5,PhD,San Francisco,76.05,0,0,,On Leave,65,9767.35
+938,Gerald,Fletcher,Male,31,Operations,Logistics Officer,2018-12-01,64097.86,12,3,High School,San Francisco,93.75,1,3,536.0,On Leave,57,9817.88
+939,Mike,Nguyen,Male,23,IT,Software Engineer,2024-10-06,66601.67,9,4,High School,Seattle,82.57,0,20,,Active,24,5420.48
+940,John,Jones,Female,22,Marketing,Marketing Specialist,2012-08-03,47372.4,2,4,Master's,Los Angeles,98.78,1,11,,On Leave,169,5366.71
+941,Johnathan,Krause,Male,44,Marketing,SEO Analyst,2010-11-10,141151.13,18,5,Master's,Denver,89.83,1,1,,On Leave,127,21436.29
+942,Scott,Acosta,Female,52,Finance,Financial Analyst,2021-11-15,136869.93,19,4,High School,San Francisco,99.87,0,15,,Active,194,14644.41
+943,Tamara,Harris,Female,35,Finance,Financial Analyst,2013-02-27,66551.65,10,4,High School,New York,75.86,1,24,,Terminated,180,6420.37
+944,Jonathan,Payne,Male,56,IT,IT Manager,2016-03-20,142909.2,0,4,Master's,San Francisco,76.73,1,8,800.0,Terminated,178,11030.45
+945,Peter,Montgomery,Female,52,R&D,Research Analyst,2020-08-07,44379.81,5,5,Bachelor's,New York,83.29,0,4,301.0,On Leave,19,2949.09
+946,Nicole,Fox,Male,28,IT,System Administrator,2017-11-20,64576.49,5,5,Bachelor's,Chicago,96.14,0,14,,Terminated,179,5444.44
+947,Elizabeth,Robertson,Male,52,Human Resources,HR Manager,2021-07-30,42259.14,13,5,Master's,Los Angeles,97.44,1,17,,Terminated,27,4447.49
+948,Erin,Porter,Male,23,Customer Support,Support Agent,2019-04-23,136555.91,8,3,High School,Chicago,86.87,0,7,,Terminated,35,17215.2
+949,Tina,Houston,Male,29,Marketing,SEO Analyst,2021-08-19,81064.86,17,3,Bachelor's,Austin,86.95,1,21,,Active,47,15858.7
+950,Kevin,Turner,Male,59,Sales,Sales Executive,2025-01-15,41231.3,12,1,Master's,Chicago,87.75,1,16,,On Leave,170,2136.8
+951,Craig,Case,Male,31,Marketing,SEO Analyst,2013-10-22,113044.0,6,4,Bachelor's,San Francisco,86.97,0,12,,On Leave,141,7331.7
+952,Dustin,Thomas,Female,24,Finance,Finance Manager,2011-09-15,122875.51,20,3,PhD,New York,98.44,1,13,,Active,15,21404.46
+953,Vickie,Anderson,Female,37,Operations,Operations Manager,2020-01-04,122346.94,7,2,PhD,San Francisco,86.98,0,16,,On Leave,104,23540.55
+954,Brooke,Richmond,Female,51,Human Resources,HR Manager,2017-09-21,117492.18,2,2,Master's,Boston,94.32,1,8,,On Leave,100,6578.66
+955,Michael,Ramirez,Female,27,R&D,R&D Manager,2017-08-11,116477.45,18,5,Master's,San Francisco,89.98,1,4,,On Leave,120,19553.35
+956,Jennifer,Young,Female,43,Sales,Sales Manager,2018-01-21,65062.65,16,3,Master's,Seattle,97.68,0,11,609.0,Terminated,78,8777.1
+957,Megan,Marshall,Female,56,Customer Support,Support Manager,2014-06-16,137960.54,19,2,Bachelor's,Denver,95.06,1,6,,Terminated,175,21142.43
+958,Juan,Hayden,Male,45,IT,Software Engineer,2022-12-07,110245.49,9,2,PhD,Denver,89.95,1,10,,Terminated,46,15987.43
+959,Katelyn,Robinson,Male,22,Sales,Business Development Rep,2025-08-27,56097.39,10,5,Bachelor's,Seattle,76.8,1,12,,On Leave,140,3851.89
+960,William,Hernandez,Male,60,R&D,R&D Manager,2013-06-20,96223.02,8,4,PhD,Los Angeles,79.98,1,13,,On Leave,160,5547.16
+961,Gina,Williams,Male,30,Operations,Operations Coordinator,2017-12-13,79746.84,3,1,PhD,Austin,76.03,1,3,,Active,140,4828.03
+962,Katie,Roberts,Female,57,Human Resources,HR Assistant,2019-03-25,119152.92,19,3,Bachelor's,Chicago,85.75,1,19,,Active,154,10077.15
+963,Alan,Barnes,Male,53,Operations,Operations Coordinator,2023-02-07,62345.53,12,5,High School,Austin,75.44,1,18,,On Leave,189,4617.27
+964,Dawn,Medina,Female,59,Marketing,Marketing Specialist,2025-04-10,138107.37,5,2,PhD,Austin,81.99,1,21,,Active,78,6971.0
+965,Erica,Jackson,Female,35,Finance,Accountant,2021-09-28,88678.03,14,4,PhD,Boston,96.26,1,0,,On Leave,138,14419.41
+966,Amy,Smith,Female,32,Human Resources,HR Manager,2023-10-28,132204.08,12,5,Bachelor's,Austin,80.14,1,2,,On Leave,153,9476.04
+967,Stephanie,Cook,Female,26,Operations,Operations Manager,2016-08-07,138829.79,9,4,High School,Los Angeles,90.01,0,0,,Terminated,175,16723.01
+968,Thomas,Sweeney,Female,39,Operations,Operations Manager,2020-01-31,87992.1,15,4,Master's,Denver,97.73,0,8,,Active,89,5580.38
+969,Michael,Duran,Male,27,IT,Software Engineer,2022-12-02,105901.57,16,2,High School,New York,96.15,0,11,661.0,On Leave,12,20849.29
+970,David,Lee,Male,32,Finance,Finance Manager,2015-11-02,72246.81,4,4,Bachelor's,San Francisco,81.96,1,7,464.0,Terminated,104,13538.65
+971,Carrie,Davis,Male,60,Human Resources,Recruiter,2015-12-12,71706.73,5,4,High School,San Francisco,98.55,0,7,,On Leave,4,13211.13
+972,Julie,Murphy,Male,42,IT,IT Manager,2024-04-09,100878.25,14,3,Master's,New York,93.08,0,5,,Terminated,62,7354.81
+973,Anna,Smith,Male,51,Human Resources,HR Manager,2016-06-22,91597.36,1,2,PhD,Chicago,81.05,1,11,,Terminated,146,12946.86
+974,Tiffany,Guzman,Female,55,Finance,Finance Manager,2025-06-08,106661.18,20,1,PhD,Los Angeles,76.68,1,0,,Terminated,73,11371.55
+975,David,Harper,Male,30,R&D,R&D Manager,2019-09-17,103521.91,19,4,Bachelor's,San Francisco,93.79,1,13,363.0,Terminated,42,13304.69
+976,Heather,Kelley,Female,35,Operations,Operations Manager,2013-08-29,82082.95,13,3,Bachelor's,Denver,84.34,0,6,,Terminated,192,7976.97
+977,Christine,Patel,Female,51,IT,IT Manager,2013-08-14,66894.1,12,1,Master's,Austin,97.51,1,8,,On Leave,124,12412.17
+978,Kelly,Thompson,Female,26,IT,System Administrator,2013-04-05,138674.28,4,1,Master's,Denver,82.39,1,14,252.0,Active,98,8038.66
+979,Michael,Smith,Male,25,R&D,Research Analyst,2025-02-23,74137.6,6,5,Bachelor's,Boston,79.15,1,4,,Active,190,14739.66
+980,William,Clay,Female,50,R&D,Product Designer,2017-06-02,90632.01,19,5,PhD,New York,83.16,0,25,,Terminated,132,9534.05
+981,Jesus,Shaw,Female,27,Finance,Accountant,2019-06-05,112667.79,10,4,Master's,Los Angeles,93.29,0,4,387.0,Active,36,16368.46
+982,David,Frazier,Male,35,Human Resources,HR Assistant,2023-02-05,61394.28,4,5,High School,Chicago,79.84,1,4,,Active,109,10432.16
+983,Carmen,Roberts,Female,43,Sales,Business Development Rep,2014-09-15,64100.39,2,2,PhD,Seattle,98.12,1,2,,Terminated,171,7949.88
+984,Edward,Rodriguez,Male,36,Operations,Logistics Officer,2021-08-12,57115.82,16,5,PhD,Denver,88.0,0,19,,On Leave,199,5245.78
+985,James,Pace,Male,36,Operations,Logistics Officer,2013-04-06,45641.52,12,5,PhD,Chicago,82.51,0,3,,Active,37,8191.23
+986,Katie,Stark,Male,42,Operations,Operations Manager,2025-04-21,102323.02,13,3,PhD,Los Angeles,77.03,0,15,,On Leave,169,7609.44
+987,Kimberly,Jenkins,Female,47,IT,System Administrator,2021-07-10,76716.44,0,3,Bachelor's,Seattle,77.96,0,15,,Active,101,6547.93
+988,Sara,Wilson,Female,56,IT,System Administrator,2015-04-08,105279.06,10,1,PhD,San Francisco,77.52,0,23,,Terminated,2,6563.78
+989,Scott,Hill,Male,58,IT,Software Engineer,2011-08-15,43595.31,5,3,High School,Chicago,99.59,1,21,,On Leave,179,4578.16
+990,Victor,Robinson,Male,53,Operations,Operations Coordinator,2018-05-27,49058.04,18,1,Master's,Seattle,90.36,1,6,,Terminated,43,8497.56
+991,Katherine,Reid,Male,60,Finance,Finance Manager,2018-09-14,90857.02,2,3,Master's,New York,78.93,1,16,,On Leave,24,15119.63
+992,Michelle,Stanton,Male,48,Operations,Logistics Officer,2021-09-22,129129.79,15,3,Master's,Boston,98.79,1,20,,Active,180,12391.27
+993,Troy,Wagner,Male,31,Marketing,SEO Analyst,2011-03-15,44047.74,4,1,Master's,Boston,89.69,0,3,,Terminated,114,2980.17
+994,Rebecca,Craig,Female,35,Operations,Logistics Officer,2024-04-21,87886.83,15,1,High School,Boston,98.25,1,21,,Active,141,13204.15
+995,Caitlyn,Porter,Female,42,Customer Support,Support Agent,2012-07-09,43451.75,1,3,Bachelor's,Boston,84.74,1,14,,Terminated,168,7468.39
+996,Jeffrey,Hammond,Female,53,Customer Support,Support Manager,2018-10-17,135494.72,18,2,Bachelor's,New York,75.19,0,8,,Active,106,22692.79
+997,Casey,Mcdaniel,Female,45,Marketing,Marketing Manager,2023-08-12,139803.76,8,2,High School,San Francisco,85.45,1,20,,On Leave,92,23155.56
+998,Stephanie,Barker,Male,49,Marketing,Marketing Specialist,2018-07-05,70079.06,16,4,PhD,Seattle,97.24,0,19,,Terminated,156,13948.86
+999,Chelsea,Webb,Male,42,R&D,Research Analyst,2014-03-08,84806.99,0,1,PhD,Seattle,86.86,0,14,,On Leave,155,15412.41
+1000,Kimberly,Davis,Male,47,Human Resources,HR Assistant,2013-06-09,67955.61,18,3,PhD,New York,75.11,0,7,,Active,115,5734.31
